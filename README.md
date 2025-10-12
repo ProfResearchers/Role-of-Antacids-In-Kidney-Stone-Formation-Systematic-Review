@@ -16,10 +16,12 @@ Our goal is to synthesize evidence from both clinical and mechanistic studies to
 
 | Name | Role | Institution |
 |------|------|--------------|
+| **Betül Sadeddin** |  Researcher, Medical Student | Ondokuz Mayıs University |
+| **Rawan Saeed** | Researcher, Medical Student | Ondokuz Mayıs University |
 | **Khaled Hamed** | Researcher, Medical student | Ondokuz Mayıs University |
 | **Mahmoud Bakaria** | Researcher, Medical Student | Ondokuz Mayıs University |
-| **Rawan Saeed** | Researcher, Medical Student | Ondokuz Mayıs University |
-| **Betül [Surname]** |  Researcher, Medical Student | Ondokuz Mayıs University |
+
+
 
 ---
 
