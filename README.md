@@ -16,10 +16,10 @@ Our goal is to synthesize evidence from both clinical and mechanistic studies to
 
 | Name | Role | Institution |
 |------|------|--------------|
-| **Khaled Hamed** | Guarantor, Lead Reviewer | Ondokuz Mayıs University |
-| **Mahmoud Bakaria** | Reviewer, Data Extraction | Ondokuz Mayıs University |
-| **Rawan Saeed** | Reviewer, Screening | Ondokuz Mayıs University |
-| **Betül [Surname]** | Reviewer, Quality Assessment | Ondokuz Mayıs University |
+| **Khaled Hamed** | Researcher, Medical student | Ondokuz Mayıs University |
+| **Mahmoud Bakaria** | Researcher, Medical Student | Ondokuz Mayıs University |
+| **Rawan Saeed** | Researcher, Medical Student | Ondokuz Mayıs University |
+| **Betül [Surname]** |  Researcher, Medical Student | Ondokuz Mayıs University |
 
 ---
 
@@ -28,10 +28,10 @@ Our goal is to synthesize evidence from both clinical and mechanistic studies to
 | Phase | Description | Status |
 |-------|--------------|--------|
 | Phase 1 | Protocol & Registration (PROSPERO) | ✅ Completed |
-| Phase 2 | Literature Search & Deduplication | 🟡 In progress |
-| Phase 3 | Screening (Title/Abstract & Full-text) | ⏳ Ongoing |
-| Phase 4 | Data Extraction | 🔜 Upcoming |
-| Phase 5 | Risk of Bias Assessment | 🔜 Upcoming |
+| Phase 2 | Literature Search & Deduplication | ✅ Completed |
+| Phase 3 | Screening (Title/Abstract & Full-text) | ✅ Completed |
+| Phase 4 | Data Extraction | ⏳ Ongoing |
+| Phase 5 | Risk of Bias Assessment | ⏳ Ongoing |
 | Phase 6 | Data Synthesis & Analysis | 🔜 Upcoming |
 | Phase 7 | Manuscript Preparation | 🔜 Upcoming |
 
@@ -43,7 +43,7 @@ Our goal is to synthesize evidence from both clinical and mechanistic studies to
 - **PubMed**, **Embase**, **Web of Science**, **Scopus**, **Cochrane CENTRAL**  
 - Grey literature: **ICTRP**, **ClinicalTrials.gov**, **OpenGrey**, **Google Scholar**
 
-### Search Strategy (Example – PubMed)  
+### Search Strategy (PubMed)  
 ```text
 ("Antacids"[Mesh] OR "antacid"[tiab] OR "calcium carbonate"[tiab] OR 
 "magnesium hydroxide"[tiab] OR "aluminum hydroxide"[tiab] OR "sodium bicarbonate"[tiab])
