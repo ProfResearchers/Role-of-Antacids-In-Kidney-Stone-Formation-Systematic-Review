@@ -1,49 +1,51 @@
-# 🧪 Antasitlerin Böbrek Taşı Oluşumundaki Rolü: Sistematik Derleme  
+# 🧪 Role of Antacids in Kidney Stone Formation: A Systematic Review  
 
-> *Antasit kullanımı ile böbrek taşı gelişimi arasındaki ilişkiyi inceleyen, PROSPERO’da kayıtlı bir sistematik derleme çalışmasıdır.*  
-
----
-
-## 🧭 Genel Bakış  
-
-Bu çalışma, **antasit kullanımı** (ör. kalsiyum karbonat, magnezyum hidroksit, alüminyum hidroksit, sodyum bikarbonat) ile **böbrek taşı oluşumu** arasındaki olası bağlantıyı sistematik olarak araştırmaktadır.  
-
-Amacımız, klinik ve deneysel çalışmaların sonuçlarını bir araya getirerek antasitlerin **taş gelişimi, taş tipi veya ilgili biyokimyasal süreçler** üzerindeki etkisini ortaya koymaktır.  
+> *A registered PROSPERO systematic review exploring the association between antacid use and kidney stone formation in humans.*  
 
 ---
 
-## 👥 Araştırma Ekibi  
+## 🧭 Overview  
 
-| İsim | Görev | Kurum |
-|------|--------|--------|
-| **Betül Sadeddin** | Araştırmacı, Tıp Öğrencisi | Ondokuz Mayıs Üniversitesi |
-| **Rawan Saeed** | Araştırmacı, Tıp Öğrencisi | Ondokuz Mayıs Üniversitesi |
-| **Khaled Hamed** | Araştırmacı, Tıp Öğrencisi | Ondokuz Mayıs Üniversitesi |
-| **Mahmoud Bakaria** | Araştırmacı, Tıp Öğrencisi | Ondokuz Mayıs Üniversitesi |
+This project systematically investigates the potential link between **antacid exposure** (e.g., calcium carbonate, magnesium hydroxide, aluminum hydroxide, sodium bicarbonate) and the **development of kidney stones**.  
+
+Our goal is to synthesize evidence from both clinical and mechanistic studies to clarify whether antacids influence **stone incidence, type, or biochemical pathways** related to urolithiasis.  
 
 ---
 
-## 📅 Çalışma Aşamaları  
+## 👥 Review Team  
 
-| Aşama | Açıklama | Durum |
-|-------|-----------|--------|
-| 1 | Protokol ve PROSPERO kaydı | ✅ Tamamlandı |
-| 2 | Literatür taraması ve tekrar kayıtların çıkarılması | ✅ Tamamlandı |
-| 3 | Başlık/özet ve tam metin taraması | ✅ Tamamlandı |
-| 4 | Veri çıkarımı | ✅ Tamamlandı |
-| 5 | Yanlılık değerlendirmesi | ⏳ Devam ediyor |
-| 6 | Veri analizi ve sentez | 🔜 Yakında |
-| 7 | Makale yazımı | 🔜 Yakında |
+| Name | Role | Institution |
+|------|------|--------------|
+| **Betül Sadeddin** |  Researcher, Medical Student | Ondokuz Mayıs University |
+| **Rawan Saeed** | Researcher, Medical Student | Ondokuz Mayıs University |
+| **Khaled Hamed** | Researcher, Medical student | Ondokuz Mayıs University |
+| **Mahmoud Bakaria** | Researcher, Medical Student | Ondokuz Mayıs University |
+
+
 
 ---
 
-## 🧩 Yöntem Özeti  
+## 📅 Timeline  
 
-### Veri Tabanları  
+| Phase | Description | Status |
+|-------|--------------|--------|
+| Phase 1 | Protocol & Registration (PROSPERO) | ✅ Completed |
+| Phase 2 | Literature Search & Deduplication | ✅ Completed |
+| Phase 3 | Screening (Title/Abstract & Full-text) | ✅ Completed |
+| Phase 4 | Data Extraction | ✅ Completed |
+| Phase 5 | Risk of Bias Assessment | ✅ Completed|
+| Phase 6 | Data Synthesis & Analysis |⏳ Ongoing |
+| Phase 7 | Manuscript Preparation | ⏳ Ongoing |
+
+---
+
+## 🧩 Methods Summary  
+
+### Databases  
 - **PubMed**, **Embase**, **Web of Science**, **Scopus**, **Cochrane CENTRAL**  
-- Gri literatür: **ICTRP**, **ClinicalTrials.gov**, **OpenGrey**, **Google Scholar**
+- Grey literature: **ICTRP**, **ClinicalTrials.gov**, **OpenGrey**, **Google Scholar**
 
-### PubMed Arama Stratejisi  
+### Search Strategy (PubMed)  
 ```text
 ("Antacids"[Mesh] OR "antacid"[tiab] OR "calcium carbonate"[tiab] OR 
 "magnesium hydroxide"[tiab] OR "aluminum hydroxide"[tiab] OR "sodium bicarbonate"[tiab])
