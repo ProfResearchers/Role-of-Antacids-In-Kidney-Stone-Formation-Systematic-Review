@@ -1,0 +1,78 @@
+Data Field,Value
+Study ID,Kolnick 2011
+Title,Hypercalcemia in Pregnancy: A Case of Milk-Alkali Syndrome
+First Author,Leanne Kolnick
+Year,2011
+Journal,J Gen Intern Med
+Country,USA
+DOI / PMID / Trial Registry ID,10.1007/s11606-011-1658-0
+Funding Source,None
+Conflict of Interest Stated?,None disclosed
+Study Design,Case Report
+Control Group Type,N/A
+Blinding,N/A
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,advised not to use over-the-counter calcium-containing antacids
+Duration of Treatment,4 days
+Total Follow-up Duration,3 days after discharge
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,Case Report
+Total Sample Size (Randomized),1
+Sample Size Analyzed (Primary Outcome),1
+Mean Age (± SD),26
+Sex (% Female),100%
+BMI (Mean ± SD),NR
+Stone Type,medullary nephrolithiasis
+History of Stones,No
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),5.5
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,A
+Intervention Name,Intravenous saline diuresis and furosemide
+Dose,4 l of normal saline; 40 mg intravenous furosemide
+Frequency,single dose of furosemide; continuous saline until adequate oral intake
+Route,Intravenous
+Comparator Name,N/A
+Concomitant Medications Allowed?,"ampicillin, ceftriaxone, magnesium oxide, K-Phos Neutral, proton pump inhibitor"
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Normalization of serum calcium and creatinine
+Method of Detection,Laboratory testing
+Timepoint Assessed,Day 4
+Events (n) [Intervention],NR
+Total (N) [Intervention],1
+Events (n) [Control],N/A
+Total (N) [Control],N/A
+Effect Measure Reported in Paper,NR
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,Day 4
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],N/A
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],N/A
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],N/A
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],N/A
+Urine pH [Intervention],5.5
+Urine pH [Control],N/A
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],N/A
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,"echogenic medullae, consistent with medullary nephrolithiasis"
+Control,N/A
+GI Symptoms (n per arm),"nausea, vomiting, anorexia"
+Withdrawals Due to Adverse Events (n per arm),N/A
+Other Adverse Events (verbatim),"hypokalemia, hypophosphatemia, hypomagnesemia, renal insufficiency, metabolic alkalosis"
+Primary Timepoint Recommended for Pooling,Day 4
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,"Subject was a 26-year-old pregnant woman in her second trimester. Elemental calcium intake was 2,500–4,400 mg daily from antacids, milk, and vitamins."

@@ -1,0 +1,155 @@
+Data Field,Value
+Study ID,Esen 1991
+Title,Role of Inhibitor Deficiency in Urolithiasis II. Deficiency Grade-Adjusted and Intermittent Augmentation Therapy for Magnesium and Citrate Deficiency
+First Author,Esen
+Year,1991
+Journal,Eur Urol
+Country,Turkey
+DOI / PMID / Trial Registry ID,NR
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Uncontrolled before-after study
+Control Group Type,None (Before-after study)
+Blinding,NR
+Randomization Method,NR
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,"common-sense diet (calcium intake restricted to 800-1,200 mg/day, low oxalate, low sodium, low carbohydrate, low animal protein and a high fluid intake)"
+Duration of Treatment,Intermittent therapy up to 13.5 months
+Total Follow-up Duration,13.5 ± 10.1 months
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,NR
+Total Sample Size (Randomized),182
+Sample Size Analyzed (Primary Outcome),43
+Mean Age (± SD),"42.2 (citrate group), 39.8 (magnesium group)"
+Sex (% Female),"46.4% (citrate group), 60.0% (magnesium group)"
+BMI (Mean ± SD),NR
+Stone Type,"Urolithiasis (hypocitraturia and hypomagnesiuria related, included infective and cystine stones)"
+History of Stones,"First-time stone formers (32.1% in citrate group, 26.6% in magnesium group) and recurrent cases"
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),"175.5 ± 80.2 mg/24 h (citrate group), 182 ± 74.3 mg/24 h (magnesium group)"
+Baseline Urinary pH (Mean ± SD),"5.5 (citrate group), 5.8 (magnesium group)"
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,1
+Intervention Name,sodium potassium citrate (Uralyt-U)
+Dose,27-81 mEq/day
+Frequency,"bedtime; bedtime and morning; morning, noon and bedtime (according to the circadian rhythm)"
+Route,oral
+Comparator Name,Baseline
+Concomitant Medications Allowed?,common-sense diet
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Development of a new stone
+Method of Detection,clinical evaluation
+Timepoint Assessed,13.5 ± 10.1 months
+Events (n) [Intervention],0
+Total (N) [Intervention],28
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,Stone recurrence rate
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,After treatment (average 13.5 months)
+Urine Calcium [Intervention],151 ± 75.6
+Urine Calcium [Control],175.5 ± 80.2
+Urine Citrate [Intervention],1.2 ± 0.2
+Urine Citrate [Control],0.43 ± 0.4
+Urine Oxalate [Intervention],15.5 ± 8.6
+Urine Oxalate [Control],18.6 ± 9.3
+Urine Magnesium [Intervention],135 ± 42
+Urine Magnesium [Control],138 ± 35
+Urine pH [Intervention],6.4
+Urine pH [Control],5.5
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SD
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),NR
+Withdrawals Due to Adverse Events (n per arm),0
+Other Adverse Events (verbatim),In both groups no side effects were observed.
+Primary Timepoint Recommended for Pooling,13.5 months
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,Before-after design. Baseline values are recorded under control fields.
+Study ID,Esen 1991
+Title,Role of Inhibitor Deficiency in Urolithiasis II. Deficiency Grade-Adjusted and Intermittent Augmentation Therapy for Magnesium and Citrate Deficiency
+First Author,Esen
+Year,1991
+Journal,Eur Urol
+Country,Turkey
+DOI / PMID / Trial Registry ID,NR
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Uncontrolled before-after study
+Control Group Type,None (Before-after study)
+Blinding,NR
+Randomization Method,NR
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,"common-sense diet (calcium intake restricted to 800-1,200 mg/day, low oxalate, low sodium, low carbohydrate, low animal protein and a high fluid intake)"
+Duration of Treatment,Intermittent therapy up to 13.5 months
+Total Follow-up Duration,13.5 ± 10.1 months
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,NR
+Total Sample Size (Randomized),182
+Sample Size Analyzed (Primary Outcome),43
+Mean Age (± SD),"42.2 (citrate group), 39.8 (magnesium group)"
+Sex (% Female),"46.4% (citrate group), 60.0% (magnesium group)"
+BMI (Mean ± SD),NR
+Stone Type,"Urolithiasis (hypocitraturia and hypomagnesiuria related, included infective and cystine stones)"
+History of Stones,"First-time stone formers (32.1% in citrate group, 26.6% in magnesium group) and recurrent cases"
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),"175.5 ± 80.2 mg/24 h (citrate group), 182 ± 74.3 mg/24 h (magnesium group)"
+Baseline Urinary pH (Mean ± SD),"5.5 (citrate group), 5.8 (magnesium group)"
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,2
+Intervention Name,magnesium hydroxide (Magnesie Calcinée)
+Dose,"500-1,000 mg/day"
+Frequency,morning; morning and afternoon (according to the circadian rhythm)
+Route,oral
+Comparator Name,Baseline
+Concomitant Medications Allowed?,common-sense diet
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Development of a new stone
+Method of Detection,clinical evaluation
+Timepoint Assessed,13.5 ± 10.1 months
+Events (n) [Intervention],0
+Total (N) [Intervention],15
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,Stone recurrence rate
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,After treatment (average 13.5 months)
+Urine Calcium [Intervention],159 ± 70.1
+Urine Calcium [Control],182 ± 74.3
+Urine Citrate [Intervention],1.8 ± 0.50
+Urine Citrate [Control],1.5 ± 0.35
+Urine Oxalate [Intervention],14.2 ± 9.3
+Urine Oxalate [Control],16.8 ± 9.1
+Urine Magnesium [Intervention],150 ± 52
+Urine Magnesium [Control],45 ± 25
+Urine pH [Intervention],6.1
+Urine pH [Control],5.8
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SD
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),NR
+Withdrawals Due to Adverse Events (n per arm),0
+Other Adverse Events (verbatim),In both groups no side effects were observed.
+Primary Timepoint Recommended for Pooling,13.5 months
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,Before-after design. Baseline values are recorded under control fields.

@@ -1,0 +1,78 @@
+Data Field,Value
+Study ID,Herman 1960
+Title,New Type of Urinary Calculus Caused by Antacid Therapy
+First Author,John R. Herman
+Year,1960
+Journal,J.A.M.A.
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Case report
+Control Group Type,N/A
+Blinding,N/A
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,NR
+Duration of Treatment,two or three years
+Total Follow-up Duration,NR
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,N/A
+Total Sample Size (Randomized),1
+Sample Size Analyzed (Primary Outcome),1
+Mean Age (± SD),53 years
+Sex (% Female),0%
+BMI (Mean ± SD),NR
+Stone Type,silicon dioxide (opaline silica)
+History of Stones,two other episodes of colic about eight or nine years earlier but had never recovered a calculus
+Baseline Stone Size or Burden (if reported),2 by 4 mm
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,A
+Intervention Name,magnesium trisilicate and aluminum hydroxide
+Dose,0.5 Gm. of magnesium trisilicate and 0.25 Gm. of aluminum hydroxide per tablet
+Frequency,30 and 35 tablets a day
+Route,oral
+Comparator Name,N/A
+Concomitant Medications Allowed?,"meperidine hydrochloride, hot baths, heating pad, antispasmodics"
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Passage of urinary calculus
+Method of Detection,Spontaneous passage
+Timepoint Assessed,4 days
+Events (n) [Intervention],1
+Total (N) [Intervention],1
+Events (n) [Control],N/A
+Total (N) [Control],N/A
+Effect Measure Reported in Paper,NR
+Time-to-Event Data Reported?,4 days
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,NR
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),recurrent epigastric pain which had been diagnosed as esophagitis
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),"severe renal colic, hydro-nephrotic kidney"
+Primary Timepoint Recommended for Pooling,4 days
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,The paper is a case report of a single patient who developed a silicon dioxide stone after high-dose ingestion of magnesium trisilicate antacids over several years.

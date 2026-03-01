@@ -1,0 +1,386 @@
+Data Field,Value
+Study ID,Ettinger 1988
+Title,CHLORTHALIDONE REDUCES CALCIUM OXALATE CALCULOUS RECURRENCE BUT MAGNESIUM HYDROXIDE DOES NOT
+First Author,Ettinger
+Year,1988
+Journal,The Journal of Urology
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Community Service Program of Kaiser Foundation Hospitals and a grant-in-aid from Rorer Pharmaceutical Corporation
+Conflict of Interest Stated?,NR
+Study Design,Prospective double-blind randomized study
+Control Group Type,Placebo
+Blinding,Double-blind
+Randomization Method,Randomly assigned on the basis of medical record number
+Allocation Concealment,Identical-appearing active drug or placebo groups
+Dietary Restrictions or Co-interventions?,"Fluid intake to produce 2,000 ml/day urine; restriction of salt, refined sugar, animal protein, and foods high in oxalate; high cereal fiber; dairy limited to 2 servings daily; vitamin C proscribed."
+Duration of Treatment,Up to 3 years
+Total Follow-up Duration,Up to 3 years
+Loss to Follow-up (n per arm if reported),Placebo: 13.5%; Mg groups: 17.7%; CTD groups: 17.7% (due to loss of interest)
+Analysis Population Used,Modified intention-to-treat (Subjects who dropped out within 3 months were excluded from outcomes)
+Total Sample Size (Randomized),124
+Sample Size Analyzed (Primary Outcome),124
+Mean Age (± SD),Placebo: 48.9 ± 12.5; Mg 650mg: 47.1 ± 9.6; Mg 1300mg: 41.1 ± 9.9; CTD 25mg: 49.8 ± 12.6; CTD 50mg: 49.3 ± 11.6
+Sex (% Female),Placebo: 12.9%; Mg 650mg: 10.0%; Mg 1300mg: 4.8%; CTD 25mg: 21.0%; CTD 50mg: 8.7%
+BMI (Mean ± SD),Placebo: 3.7 ± 0.6; Mg 650mg: 3.9 ± 0.7; Mg 1300mg: 3.4 ± 0.4; CTD 25mg: 3.8 ± 0.6; CTD 50mg: 3.9 ± 0.6 (Quetelet's index X 100)
+Stone Type,Calcium oxalate (composition exceeding 79%)
+History of Stones,2 or more calculi within the previous 5 years and at least 1 calculus within the previous 2 years
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),Placebo: 232 ± 117 mg/24 hr; Mg 650mg: 275 ± 127 mg/24 hr; Mg 1300mg: 247 ± 136 mg/24 hr; CTD 25mg: 271 ± 125 mg/24 hr; CTD 50mg: 299 ± 138 mg/24 hr
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,Placebo
+Intervention Name,Placebo
+Dose,NR
+Frequency,NR
+Route,Oral
+Comparator Name,N/A
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),"Calculous events (radiographic evidence of new or enlarging calculi, or passage of calculi)"
+Method of Detection,Impartial referee judged clinical information and x-ray films blindly
+Timepoint Assessed,Up to 3 years
+Events (n) [Intervention],N/A
+Total (N) [Intervention],N/A
+Events (n) [Control],14
+Total (N) [Control],31
+Effect Measure Reported in Paper,Number of subjects with events
+Time-to-Event Data Reported?,Up to 3 years
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,"Mean of values at 6, 12, and 24 months"
+Urine Calcium [Intervention],N/A
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],N/A
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],N/A
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],N/A
+Urine Magnesium [Control],NR
+Urine pH [Intervention],N/A
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],N/A
+Urine Phosphorus [Control],NR
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,N/A
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,N/A
+Control,NR
+GI Symptoms (n per arm),Placebo: 3.2% gastrointestinal upset; MgOH 1300mg: 13.3% diarrhea
+Withdrawals Due to Adverse Events (n per arm),Placebo: 3.2%; MgOH 650mg: 0%; MgOH 1300mg: 13.3%; CTD 25mg: 22.6%; CTD 50mg: 18.9%
+Other Adverse Events (verbatim),"Chlorthalidone side effects: lassitude, fatigue, impotence, lightheadedness, or muscular symptoms"
+Primary Timepoint Recommended for Pooling,3 years
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,Baseline values exclude patients who dropped out within first 3 months.
+Study ID,Ettinger 1988
+Title,CHLORTHALIDONE REDUCES CALCIUM OXALATE CALCULOUS RECURRENCE BUT MAGNESIUM HYDROXIDE DOES NOT
+First Author,Ettinger
+Year,1988
+Journal,The Journal of Urology
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Community Service Program of Kaiser Foundation Hospitals and a grant-in-aid from Rorer Pharmaceutical Corporation
+Conflict of Interest Stated?,NR
+Study Design,Prospective double-blind randomized study
+Control Group Type,Placebo
+Blinding,Double-blind
+Randomization Method,Randomly assigned on the basis of medical record number
+Allocation Concealment,Identical-appearing active drug or placebo groups
+Dietary Restrictions or Co-interventions?,"Fluid intake to produce 2,000 ml/day urine; restriction of salt, refined sugar, animal protein, and foods high in oxalate; high cereal fiber; dairy limited to 2 servings daily; vitamin C proscribed."
+Duration of Treatment,Up to 3 years
+Total Follow-up Duration,Up to 3 years
+Loss to Follow-up (n per arm if reported),Placebo: 13.5%; Mg groups: 17.7%; CTD groups: 17.7% (due to loss of interest)
+Analysis Population Used,Modified intention-to-treat (Subjects who dropped out within 3 months were excluded from outcomes)
+Total Sample Size (Randomized),124
+Sample Size Analyzed (Primary Outcome),124
+Mean Age (± SD),Placebo: 48.9 ± 12.5; Mg 650mg: 47.1 ± 9.6; Mg 1300mg: 41.1 ± 9.9; CTD 25mg: 49.8 ± 12.6; CTD 50mg: 49.3 ± 11.6
+Sex (% Female),Placebo: 12.9%; Mg 650mg: 10.0%; Mg 1300mg: 4.8%; CTD 25mg: 21.0%; CTD 50mg: 8.7%
+BMI (Mean ± SD),Placebo: 3.7 ± 0.6; Mg 650mg: 3.9 ± 0.7; Mg 1300mg: 3.4 ± 0.4; CTD 25mg: 3.8 ± 0.6; CTD 50mg: 3.9 ± 0.6 (Quetelet's index X 100)
+Stone Type,Calcium oxalate (composition exceeding 79%)
+History of Stones,2 or more calculi within the previous 5 years and at least 1 calculus within the previous 2 years
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),Placebo: 232 ± 117 mg/24 hr; Mg 650mg: 275 ± 127 mg/24 hr; Mg 1300mg: 247 ± 136 mg/24 hr; CTD 25mg: 271 ± 125 mg/24 hr; CTD 50mg: 299 ± 138 mg/24 hr
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,Magnesium hydroxide 650 mg
+Intervention Name,Magnesium hydroxide (milk of magnesia)
+Dose,325 mg
+Frequency,Twice daily
+Route,Oral
+Comparator Name,Placebo
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),"Calculous events (radiographic evidence of new or enlarging calculi, or passage of calculi)"
+Method of Detection,Impartial referee judged clinical information and x-ray films blindly
+Timepoint Assessed,Up to 3 years
+Events (n) [Intervention],8
+Total (N) [Intervention],30
+Events (n) [Control],14
+Total (N) [Control],31
+Effect Measure Reported in Paper,Number of subjects with events
+Time-to-Event Data Reported?,Up to 3 years
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,"Mean of values at 6, 12, and 24 months"
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],Change: +46 ± 7 mg
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,Standard error of the mean
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Placebo: 3.2% gastrointestinal upset; MgOH 1300mg: 13.3% diarrhea
+Withdrawals Due to Adverse Events (n per arm),Placebo: 3.2%; MgOH 650mg: 0%; MgOH 1300mg: 13.3%; CTD 25mg: 22.6%; CTD 50mg: 18.9%
+Other Adverse Events (verbatim),"Chlorthalidone side effects: lassitude, fatigue, impotence, lightheadedness, or muscular symptoms"
+Primary Timepoint Recommended for Pooling,3 years
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,Baseline values exclude patients who dropped out within first 3 months.
+Study ID,Ettinger 1988
+Title,CHLORTHALIDONE REDUCES CALCIUM OXALATE CALCULOUS RECURRENCE BUT MAGNESIUM HYDROXIDE DOES NOT
+First Author,Ettinger
+Year,1988
+Journal,The Journal of Urology
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Community Service Program of Kaiser Foundation Hospitals and a grant-in-aid from Rorer Pharmaceutical Corporation
+Conflict of Interest Stated?,NR
+Study Design,Prospective double-blind randomized study
+Control Group Type,Placebo
+Blinding,Double-blind
+Randomization Method,Randomly assigned on the basis of medical record number
+Allocation Concealment,Identical-appearing active drug or placebo groups
+Dietary Restrictions or Co-interventions?,"Fluid intake to produce 2,000 ml/day urine; restriction of salt, refined sugar, animal protein, and foods high in oxalate; high cereal fiber; dairy limited to 2 servings daily; vitamin C proscribed."
+Duration of Treatment,Up to 3 years
+Total Follow-up Duration,Up to 3 years
+Loss to Follow-up (n per arm if reported),Placebo: 13.5%; Mg groups: 17.7%; CTD groups: 17.7% (due to loss of interest)
+Analysis Population Used,Modified intention-to-treat (Subjects who dropped out within 3 months were excluded from outcomes)
+Total Sample Size (Randomized),124
+Sample Size Analyzed (Primary Outcome),124
+Mean Age (± SD),Placebo: 48.9 ± 12.5; Mg 650mg: 47.1 ± 9.6; Mg 1300mg: 41.1 ± 9.9; CTD 25mg: 49.8 ± 12.6; CTD 50mg: 49.3 ± 11.6
+Sex (% Female),Placebo: 12.9%; Mg 650mg: 10.0%; Mg 1300mg: 4.8%; CTD 25mg: 21.0%; CTD 50mg: 8.7%
+BMI (Mean ± SD),Placebo: 3.7 ± 0.6; Mg 650mg: 3.9 ± 0.7; Mg 1300mg: 3.4 ± 0.4; CTD 25mg: 3.8 ± 0.6; CTD 50mg: 3.9 ± 0.6 (Quetelet's index X 100)
+Stone Type,Calcium oxalate (composition exceeding 79%)
+History of Stones,2 or more calculi within the previous 5 years and at least 1 calculus within the previous 2 years
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),Placebo: 232 ± 117 mg/24 hr; Mg 650mg: 275 ± 127 mg/24 hr; Mg 1300mg: 247 ± 136 mg/24 hr; CTD 25mg: 271 ± 125 mg/24 hr; CTD 50mg: 299 ± 138 mg/24 hr
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,Magnesium hydroxide 1300 mg
+Intervention Name,Magnesium hydroxide (milk of magnesia)
+Dose,650 mg
+Frequency,Twice daily
+Route,Oral
+Comparator Name,Placebo
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),"Calculous events (radiographic evidence of new or enlarging calculi, or passage of calculi)"
+Method of Detection,Impartial referee judged clinical information and x-ray films blindly
+Timepoint Assessed,Up to 3 years
+Events (n) [Intervention],7
+Total (N) [Intervention],21
+Events (n) [Control],14
+Total (N) [Control],31
+Effect Measure Reported in Paper,Number of subjects with events
+Time-to-Event Data Reported?,Up to 3 years
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,"Mean of values at 6, 12, and 24 months"
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],Change: +51 ± 7 mg
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,Standard error of the mean
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Placebo: 3.2% gastrointestinal upset; MgOH 1300mg: 13.3% diarrhea
+Withdrawals Due to Adverse Events (n per arm),Placebo: 3.2%; MgOH 650mg: 0%; MgOH 1300mg: 13.3%; CTD 25mg: 22.6%; CTD 50mg: 18.9%
+Other Adverse Events (verbatim),"Chlorthalidone side effects: lassitude, fatigue, impotence, lightheadedness, or muscular symptoms"
+Primary Timepoint Recommended for Pooling,3 years
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,Baseline values exclude patients who dropped out within first 3 months.
+Study ID,Ettinger 1988
+Title,CHLORTHALIDONE REDUCES CALCIUM OXALATE CALCULOUS RECURRENCE BUT MAGNESIUM HYDROXIDE DOES NOT
+First Author,Ettinger
+Year,1988
+Journal,The Journal of Urology
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Community Service Program of Kaiser Foundation Hospitals and a grant-in-aid from Rorer Pharmaceutical Corporation
+Conflict of Interest Stated?,NR
+Study Design,Prospective double-blind randomized study
+Control Group Type,Placebo
+Blinding,Double-blind
+Randomization Method,Randomly assigned on the basis of medical record number
+Allocation Concealment,Identical-appearing active drug or placebo groups
+Dietary Restrictions or Co-interventions?,"Fluid intake to produce 2,000 ml/day urine; restriction of salt, refined sugar, animal protein, and foods high in oxalate; high cereal fiber; dairy limited to 2 servings daily; vitamin C proscribed."
+Duration of Treatment,Up to 3 years
+Total Follow-up Duration,Up to 3 years
+Loss to Follow-up (n per arm if reported),Placebo: 13.5%; Mg groups: 17.7%; CTD groups: 17.7% (due to loss of interest)
+Analysis Population Used,Modified intention-to-treat (Subjects who dropped out within 3 months were excluded from outcomes)
+Total Sample Size (Randomized),124
+Sample Size Analyzed (Primary Outcome),124
+Mean Age (± SD),Placebo: 48.9 ± 12.5; Mg 650mg: 47.1 ± 9.6; Mg 1300mg: 41.1 ± 9.9; CTD 25mg: 49.8 ± 12.6; CTD 50mg: 49.3 ± 11.6
+Sex (% Female),Placebo: 12.9%; Mg 650mg: 10.0%; Mg 1300mg: 4.8%; CTD 25mg: 21.0%; CTD 50mg: 8.7%
+BMI (Mean ± SD),Placebo: 3.7 ± 0.6; Mg 650mg: 3.9 ± 0.7; Mg 1300mg: 3.4 ± 0.4; CTD 25mg: 3.8 ± 0.6; CTD 50mg: 3.9 ± 0.6 (Quetelet's index X 100)
+Stone Type,Calcium oxalate (composition exceeding 79%)
+History of Stones,2 or more calculi within the previous 5 years and at least 1 calculus within the previous 2 years
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),Placebo: 232 ± 117 mg/24 hr; Mg 650mg: 275 ± 127 mg/24 hr; Mg 1300mg: 247 ± 136 mg/24 hr; CTD 25mg: 271 ± 125 mg/24 hr; CTD 50mg: 299 ± 138 mg/24 hr
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,Chlorthalidone 25 mg
+Intervention Name,Chlorthalidone
+Dose,25 mg
+Frequency,Daily
+Route,Oral
+Comparator Name,Placebo
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),"Calculous events (radiographic evidence of new or enlarging calculi, or passage of calculi)"
+Method of Detection,Impartial referee judged clinical information and x-ray films blindly
+Timepoint Assessed,Up to 3 years
+Events (n) [Intervention],3
+Total (N) [Intervention],19
+Events (n) [Control],14
+Total (N) [Control],31
+Effect Measure Reported in Paper,Number of subjects with events
+Time-to-Event Data Reported?,Up to 3 years
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,"Mean of values at 6, 12, and 24 months"
+Urine Calcium [Intervention],Change: -75 ± 26 mg
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],Change: -13 ± 5 mg
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,Standard error of the mean
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Placebo: 3.2% gastrointestinal upset; MgOH 1300mg: 13.3% diarrhea
+Withdrawals Due to Adverse Events (n per arm),Placebo: 3.2%; MgOH 650mg: 0%; MgOH 1300mg: 13.3%; CTD 25mg: 22.6%; CTD 50mg: 18.9%
+Other Adverse Events (verbatim),"Chlorthalidone side effects: lassitude, fatigue, impotence, lightheadedness, or muscular symptoms"
+Primary Timepoint Recommended for Pooling,3 years
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,Baseline values exclude patients who dropped out within first 3 months.
+Study ID,Ettinger 1988
+Title,CHLORTHALIDONE REDUCES CALCIUM OXALATE CALCULOUS RECURRENCE BUT MAGNESIUM HYDROXIDE DOES NOT
+First Author,Ettinger
+Year,1988
+Journal,The Journal of Urology
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Community Service Program of Kaiser Foundation Hospitals and a grant-in-aid from Rorer Pharmaceutical Corporation
+Conflict of Interest Stated?,NR
+Study Design,Prospective double-blind randomized study
+Control Group Type,Placebo
+Blinding,Double-blind
+Randomization Method,Randomly assigned on the basis of medical record number
+Allocation Concealment,Identical-appearing active drug or placebo groups
+Dietary Restrictions or Co-interventions?,"Fluid intake to produce 2,000 ml/day urine; restriction of salt, refined sugar, animal protein, and foods high in oxalate; high cereal fiber; dairy limited to 2 servings daily; vitamin C proscribed."
+Duration of Treatment,Up to 3 years
+Total Follow-up Duration,Up to 3 years
+Loss to Follow-up (n per arm if reported),Placebo: 13.5%; Mg groups: 17.7%; CTD groups: 17.7% (due to loss of interest)
+Analysis Population Used,Modified intention-to-treat (Subjects who dropped out within 3 months were excluded from outcomes)
+Total Sample Size (Randomized),124
+Sample Size Analyzed (Primary Outcome),124
+Mean Age (± SD),Placebo: 48.9 ± 12.5; Mg 650mg: 47.1 ± 9.6; Mg 1300mg: 41.1 ± 9.9; CTD 25mg: 49.8 ± 12.6; CTD 50mg: 49.3 ± 11.6
+Sex (% Female),Placebo: 12.9%; Mg 650mg: 10.0%; Mg 1300mg: 4.8%; CTD 25mg: 21.0%; CTD 50mg: 8.7%
+BMI (Mean ± SD),Placebo: 3.7 ± 0.6; Mg 650mg: 3.9 ± 0.7; Mg 1300mg: 3.4 ± 0.4; CTD 25mg: 3.8 ± 0.6; CTD 50mg: 3.9 ± 0.6 (Quetelet's index X 100)
+Stone Type,Calcium oxalate (composition exceeding 79%)
+History of Stones,2 or more calculi within the previous 5 years and at least 1 calculus within the previous 2 years
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),Placebo: 232 ± 117 mg/24 hr; Mg 650mg: 275 ± 127 mg/24 hr; Mg 1300mg: 247 ± 136 mg/24 hr; CTD 25mg: 271 ± 125 mg/24 hr; CTD 50mg: 299 ± 138 mg/24 hr
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,Chlorthalidone 50 mg
+Intervention Name,Chlorthalidone
+Dose,50 mg
+Frequency,Daily
+Route,Oral
+Comparator Name,Placebo
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),"Calculous events (radiographic evidence of new or enlarging calculi, or passage of calculi)"
+Method of Detection,Impartial referee judged clinical information and x-ray films blindly
+Timepoint Assessed,Up to 3 years
+Events (n) [Intervention],3
+Total (N) [Intervention],23
+Events (n) [Control],14
+Total (N) [Control],31
+Effect Measure Reported in Paper,Number of subjects with events
+Time-to-Event Data Reported?,Up to 3 years
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,"Mean of values at 6, 12, and 24 months"
+Urine Calcium [Intervention],Change: -66 ± 27 mg
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],Change: -5 ± 4 mg
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,Standard error of the mean
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Placebo: 3.2% gastrointestinal upset; MgOH 1300mg: 13.3% diarrhea
+Withdrawals Due to Adverse Events (n per arm),Placebo: 3.2%; MgOH 650mg: 0%; MgOH 1300mg: 13.3%; CTD 25mg: 22.6%; CTD 50mg: 18.9%
+Other Adverse Events (verbatim),"Chlorthalidone side effects: lassitude, fatigue, impotence, lightheadedness, or muscular symptoms"
+Primary Timepoint Recommended for Pooling,3 years
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,Baseline values exclude patients who dropped out within first 3 months.

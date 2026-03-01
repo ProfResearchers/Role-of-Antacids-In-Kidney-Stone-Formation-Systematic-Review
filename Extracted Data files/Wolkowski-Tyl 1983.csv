@@ -1,0 +1,463 @@
+Data Field,Value
+Study ID,Wolkowski-Tyl 1983
+Title,Effects of Selected Therapeutic Agents on Urolithiasis Induced by Terephthalic Acid in the Male Weanling Fischer 344 Rat
+First Author,Wolkowski-Tyl
+Year,1983
+Journal,Fundam. Appl. Toxicol.
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Chemical Industry Institute of Toxicology
+Conflict of Interest Stated?,NR
+Study Design,Experimental animal study
+Control Group Type,Negative control (vehicle) and Positive control (TPA only)
+Blinding,NR
+Randomization Method,distributed randomly across six groups
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,Food and tap water were provided ad libitum
+Duration of Treatment,14 days
+Total Follow-up Duration,14 days
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,NR
+Total Sample Size (Randomized),60
+Sample Size Analyzed (Primary Outcome),60
+Mean Age (± SD),weanling (postnatal day 28)
+Sex (% Female),0%
+BMI (Mean ± SD),NR
+Stone Type,"principally of TPA, calcium, phosphate and protein"
+History of Stones,None (induced)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,Male weanling Fischer 344 rat (CDF-COBS Fischer 344/CrlBr inbred albino rats)
+Stone Induction Method,4.0% terephthalic acid (TPA) in the diet for two weeks
+Arm ID,I
+Intervention Name,Negative control
+Dose,0.200 mL/50 g rat vehicle (0.5% carboxymethyl cellulose in tap water)
+Frequency,Daily
+Route,Oral gavage
+Comparator Name,N/A
+Concomitant Medications Allowed?,Control diet (NIH-31 powdered feed)
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Incidence of Uroliths
+Method of Detection,Macroscopic examination at sacrifice
+Timepoint Assessed,postnatal day 42
+Events (n) [Intervention],0
+Total (N) [Intervention],10
+Events (n) [Control],N/A
+Total (N) [Control],N/A
+Effect Measure Reported in Paper,Incidence
+Time-to-Event Data Reported?,14 days
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,postnatal day 42
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],N/A
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],N/A
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],N/A
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],N/A
+Urine pH [Intervention],7.00 ± 0.15
+Urine pH [Control],N/A
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],N/A
+Variance Type Used,SE
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,N/A
+GI Symptoms (n per arm),Diarrhea observed in positive controls and in pups exposed to TPA and treated with allopurinol or neutral phosphates
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),weight gain depression; crystalline encrustations at the urogenital orifice and papilla
+Primary Timepoint Recommended for Pooling,postnatal day 42 (after a two-week exposure)
+Outcome Suitable for Meta-analysis? (Yes / No),NR
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,TPA-induced urolithiasis was abolished by chlorothiazide or dietary sodium bicarbonate.
+Study ID,Wolkowski-Tyl 1983
+Title,Effects of Selected Therapeutic Agents on Urolithiasis Induced by Terephthalic Acid in the Male Weanling Fischer 344 Rat
+First Author,Wolkowski-Tyl
+Year,1983
+Journal,Fundam. Appl. Toxicol.
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Chemical Industry Institute of Toxicology
+Conflict of Interest Stated?,NR
+Study Design,Experimental animal study
+Control Group Type,Negative control (vehicle) and Positive control (TPA only)
+Blinding,NR
+Randomization Method,distributed randomly across six groups
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,Food and tap water were provided ad libitum
+Duration of Treatment,14 days
+Total Follow-up Duration,14 days
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,NR
+Total Sample Size (Randomized),60
+Sample Size Analyzed (Primary Outcome),60
+Mean Age (± SD),weanling (postnatal day 28)
+Sex (% Female),0%
+BMI (Mean ± SD),NR
+Stone Type,"principally of TPA, calcium, phosphate and protein"
+History of Stones,None (induced)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,Male weanling Fischer 344 rat (CDF-COBS Fischer 344/CrlBr inbred albino rats)
+Stone Induction Method,4.0% terephthalic acid (TPA) in the diet for two weeks
+Arm ID,II
+Intervention Name,Positive control
+Dose,4.0% TPA powder in the diet
+Frequency,"Daily (vehicle gavage), ad libitum (diet)"
+Route,Diet + Oral gavage (vehicle)
+Comparator Name,Negative control
+Concomitant Medications Allowed?,NIH-31 powdered feed
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Incidence of Uroliths
+Method of Detection,Macroscopic examination at sacrifice
+Timepoint Assessed,postnatal day 42
+Events (n) [Intervention],5
+Total (N) [Intervention],10
+Events (n) [Control],0
+Total (N) [Control],10
+Effect Measure Reported in Paper,Incidence
+Time-to-Event Data Reported?,14 days
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,postnatal day 42
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],5.74 ± 0.04
+Urine pH [Control],7.00 ± 0.15
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SE
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Diarrhea observed in positive controls and in pups exposed to TPA and treated with allopurinol or neutral phosphates
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),weight gain depression; crystalline encrustations at the urogenital orifice and papilla
+Primary Timepoint Recommended for Pooling,postnatal day 42 (after a two-week exposure)
+Outcome Suitable for Meta-analysis? (Yes / No),NR
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,TPA-induced urolithiasis was abolished by chlorothiazide or dietary sodium bicarbonate.
+Study ID,Wolkowski-Tyl 1983
+Title,Effects of Selected Therapeutic Agents on Urolithiasis Induced by Terephthalic Acid in the Male Weanling Fischer 344 Rat
+First Author,Wolkowski-Tyl
+Year,1983
+Journal,Fundam. Appl. Toxicol.
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Chemical Industry Institute of Toxicology
+Conflict of Interest Stated?,NR
+Study Design,Experimental animal study
+Control Group Type,Negative control (vehicle) and Positive control (TPA only)
+Blinding,NR
+Randomization Method,distributed randomly across six groups
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,Food and tap water were provided ad libitum
+Duration of Treatment,14 days
+Total Follow-up Duration,14 days
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,NR
+Total Sample Size (Randomized),60
+Sample Size Analyzed (Primary Outcome),60
+Mean Age (± SD),weanling (postnatal day 28)
+Sex (% Female),0%
+BMI (Mean ± SD),NR
+Stone Type,"principally of TPA, calcium, phosphate and protein"
+History of Stones,None (induced)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,Male weanling Fischer 344 rat (CDF-COBS Fischer 344/CrlBr inbred albino rats)
+Stone Induction Method,4.0% terephthalic acid (TPA) in the diet for two weeks
+Arm ID,III
+Intervention Name,Allopurinol
+Dose,14.0 mg/kg/day + 4.0% TPA in diet
+Frequency,Daily
+Route,Oral gavage
+Comparator Name,Positive control
+Concomitant Medications Allowed?,NIH-31 powdered feed
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Incidence of Uroliths
+Method of Detection,Macroscopic examination at sacrifice
+Timepoint Assessed,postnatal day 42
+Events (n) [Intervention],7
+Total (N) [Intervention],10
+Events (n) [Control],5
+Total (N) [Control],10
+Effect Measure Reported in Paper,Incidence
+Time-to-Event Data Reported?,14 days
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,postnatal day 42
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],5.65 ± 0.04
+Urine pH [Control],5.74 ± 0.04
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SE
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Diarrhea observed in positive controls and in pups exposed to TPA and treated with allopurinol or neutral phosphates
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),weight gain depression; crystalline encrustations at the urogenital orifice and papilla
+Primary Timepoint Recommended for Pooling,postnatal day 42 (after a two-week exposure)
+Outcome Suitable for Meta-analysis? (Yes / No),NR
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,TPA-induced urolithiasis was abolished by chlorothiazide or dietary sodium bicarbonate.
+Study ID,Wolkowski-Tyl 1983
+Title,Effects of Selected Therapeutic Agents on Urolithiasis Induced by Terephthalic Acid in the Male Weanling Fischer 344 Rat
+First Author,Wolkowski-Tyl
+Year,1983
+Journal,Fundam. Appl. Toxicol.
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Chemical Industry Institute of Toxicology
+Conflict of Interest Stated?,NR
+Study Design,Experimental animal study
+Control Group Type,Negative control (vehicle) and Positive control (TPA only)
+Blinding,NR
+Randomization Method,distributed randomly across six groups
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,Food and tap water were provided ad libitum
+Duration of Treatment,14 days
+Total Follow-up Duration,14 days
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,NR
+Total Sample Size (Randomized),60
+Sample Size Analyzed (Primary Outcome),60
+Mean Age (± SD),weanling (postnatal day 28)
+Sex (% Female),0%
+BMI (Mean ± SD),NR
+Stone Type,"principally of TPA, calcium, phosphate and protein"
+History of Stones,None (induced)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,Male weanling Fischer 344 rat (CDF-COBS Fischer 344/CrlBr inbred albino rats)
+Stone Induction Method,4.0% terephthalic acid (TPA) in the diet for two weeks
+Arm ID,IV
+Intervention Name,Chlorothiazide
+Dose,14.23 mg/kg/day + 4.0% TPA in diet
+Frequency,Daily
+Route,Oral gavage
+Comparator Name,Positive control
+Concomitant Medications Allowed?,NIH-31 powdered feed
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Incidence of Uroliths
+Method of Detection,Macroscopic examination at sacrifice
+Timepoint Assessed,postnatal day 42
+Events (n) [Intervention],0
+Total (N) [Intervention],10
+Events (n) [Control],5
+Total (N) [Control],10
+Effect Measure Reported in Paper,Incidence
+Time-to-Event Data Reported?,14 days
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,postnatal day 42
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],5.86 ± 0.06
+Urine pH [Control],5.74 ± 0.04
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SE
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Diarrhea observed in positive controls and in pups exposed to TPA and treated with allopurinol or neutral phosphates
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),weight gain depression; crystalline encrustations at the urogenital orifice and papilla
+Primary Timepoint Recommended for Pooling,postnatal day 42 (after a two-week exposure)
+Outcome Suitable for Meta-analysis? (Yes / No),NR
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,TPA-induced urolithiasis was abolished by chlorothiazide or dietary sodium bicarbonate.
+Study ID,Wolkowski-Tyl 1983
+Title,Effects of Selected Therapeutic Agents on Urolithiasis Induced by Terephthalic Acid in the Male Weanling Fischer 344 Rat
+First Author,Wolkowski-Tyl
+Year,1983
+Journal,Fundam. Appl. Toxicol.
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Chemical Industry Institute of Toxicology
+Conflict of Interest Stated?,NR
+Study Design,Experimental animal study
+Control Group Type,Negative control (vehicle) and Positive control (TPA only)
+Blinding,NR
+Randomization Method,distributed randomly across six groups
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,Food and tap water were provided ad libitum
+Duration of Treatment,14 days
+Total Follow-up Duration,14 days
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,NR
+Total Sample Size (Randomized),60
+Sample Size Analyzed (Primary Outcome),60
+Mean Age (± SD),weanling (postnatal day 28)
+Sex (% Female),0%
+BMI (Mean ± SD),NR
+Stone Type,"principally of TPA, calcium, phosphate and protein"
+History of Stones,None (induced)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,Male weanling Fischer 344 rat (CDF-COBS Fischer 344/CrlBr inbred albino rats)
+Stone Induction Method,4.0% terephthalic acid (TPA) in the diet for two weeks
+Arm ID,V
+Intervention Name,Neutral phosphates
+Dose,28.5 mg/kg/day + 4.0% TPA in diet
+Frequency,Daily
+Route,Oral gavage
+Comparator Name,Positive control
+Concomitant Medications Allowed?,NIH-31 powdered feed
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Incidence of Uroliths
+Method of Detection,Macroscopic examination at sacrifice
+Timepoint Assessed,postnatal day 42
+Events (n) [Intervention],6
+Total (N) [Intervention],10
+Events (n) [Control],5
+Total (N) [Control],10
+Effect Measure Reported in Paper,Incidence
+Time-to-Event Data Reported?,14 days
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,postnatal day 42
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],5.69 ± 0.03
+Urine pH [Control],5.74 ± 0.04
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SE
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Diarrhea observed in positive controls and in pups exposed to TPA and treated with allopurinol or neutral phosphates
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),weight gain depression; crystalline encrustations at the urogenital orifice and papilla
+Primary Timepoint Recommended for Pooling,postnatal day 42 (after a two-week exposure)
+Outcome Suitable for Meta-analysis? (Yes / No),NR
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,TPA-induced urolithiasis was abolished by chlorothiazide or dietary sodium bicarbonate.
+Study ID,Wolkowski-Tyl 1983
+Title,Effects of Selected Therapeutic Agents on Urolithiasis Induced by Terephthalic Acid in the Male Weanling Fischer 344 Rat
+First Author,Wolkowski-Tyl
+Year,1983
+Journal,Fundam. Appl. Toxicol.
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Chemical Industry Institute of Toxicology
+Conflict of Interest Stated?,NR
+Study Design,Experimental animal study
+Control Group Type,Negative control (vehicle) and Positive control (TPA only)
+Blinding,NR
+Randomization Method,distributed randomly across six groups
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,Food and tap water were provided ad libitum
+Duration of Treatment,14 days
+Total Follow-up Duration,14 days
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,NR
+Total Sample Size (Randomized),60
+Sample Size Analyzed (Primary Outcome),60
+Mean Age (± SD),weanling (postnatal day 28)
+Sex (% Female),0%
+BMI (Mean ± SD),NR
+Stone Type,"principally of TPA, calcium, phosphate and protein"
+History of Stones,None (induced)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,Male weanling Fischer 344 rat (CDF-COBS Fischer 344/CrlBr inbred albino rats)
+Stone Induction Method,4.0% terephthalic acid (TPA) in the diet for two weeks
+Arm ID,VI
+Intervention Name,Sodium bicarbonate
+Dose,4.0% sodium bicarbonate + 4.0% TPA in diet
+Frequency,ad libitum
+Route,Diet
+Comparator Name,Positive control
+Concomitant Medications Allowed?,NIH-31 powdered feed
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Incidence of Uroliths
+Method of Detection,Macroscopic examination at sacrifice
+Timepoint Assessed,postnatal day 42
+Events (n) [Intervention],0
+Total (N) [Intervention],10
+Events (n) [Control],5
+Total (N) [Control],10
+Effect Measure Reported in Paper,Incidence
+Time-to-Event Data Reported?,14 days
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,postnatal day 42
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],6.12 ± 0.07
+Urine pH [Control],5.74 ± 0.04
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SE
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Diarrhea observed in positive controls and in pups exposed to TPA and treated with allopurinol or neutral phosphates
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),weight gain depression; crystalline encrustations at the urogenital orifice and papilla
+Primary Timepoint Recommended for Pooling,postnatal day 42 (after a two-week exposure)
+Outcome Suitable for Meta-analysis? (Yes / No),NR
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,TPA-induced urolithiasis was abolished by chlorothiazide or dietary sodium bicarbonate.

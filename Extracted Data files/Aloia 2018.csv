@@ -1,0 +1,78 @@
+Data Field,Value
+Study ID,Aloia 2018
+Title,"Safety of calcium and vitamin D supplements, a randomized controlled trial"
+First Author,John F. Aloia
+Year,2018
+Journal,Clinical Endocrinology
+Country,USA
+DOI / PMID / Trial Registry ID,10.1111/cen.13848
+Funding Source,NR
+Conflict of Interest Stated?,None of the authors had a conflict of interest to declare.
+Study Design,"Randomized, double-blind, clinical trial"
+Control Group Type,Active Control (standard dose vitamin D)
+Blinding,Double-blind
+Randomization Method,Block randomization (computer-generated SAS Proc PLAN)
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,Subjects were asked to refrain from taking calcium and vitamin D supplements.
+Duration of Treatment,One year
+Total Follow-up Duration,One year
+Loss to Follow-up (n per arm if reported),"38 (18 in high dose D group, 20 in low dose D group)"
+Analysis Population Used,Intention-to-treat
+Total Sample Size (Randomized),132
+Sample Size Analyzed (Primary Outcome),132
+Mean Age (± SD),61.5 years
+Sex (% Female),100%
+BMI (Mean ± SD),27.2 kg/m2
+Stone Type,N/A
+History of Stones,None (nephrolithiasis was an exclusion criterion)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),120.7 (87.2-166.3) mg/day
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,A
+Intervention Name,High Dose Vitamin D3 + Calcium Carbonate
+Dose,"10,000 IU/day Vitamin D3 + 1200 mg/day CaCO3 supplement"
+Frequency,Daily
+Route,Oral
+Comparator Name,Standard Dose Vitamin D3 + Calcium Carbonate (600 IU/day)
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Hypercalciuria (24-hour urine calcium excretion over 250 mg)
+Method of Detection,24-hour urine collection
+Timepoint Assessed,Any time during 12 months
+Events (n) [Intervention],34
+Total (N) [Intervention],66
+Events (n) [Control],19
+Total (N) [Control],66
+Effect Measure Reported in Paper,"OR = 3.6 (1.39, 9.3)"
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,12 months
+Urine Calcium [Intervention],229.1 (134.9-295.8) mg/day
+Urine Calcium [Control],167.9 (104.7-215.0) mg/day
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,Median (1st quartile-3rd quartile)
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+GI Symptoms (n per arm),Constipation (1 in each group reported as the reason for dropout)
+Withdrawals Due to Adverse Events (n per arm),"10 (5 in high dose group, 5 in low dose group)"
+Other Adverse Events (verbatim),37 patients had 64 events in high D group; 38 patients had 67 events in low D group
+Primary Timepoint Recommended for Pooling,12 months
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),No (Mixed-effects models used to handle missing data)
+Comments / Extraction Notes,"The study was designed to compare the RDA (600 IU) vs the Endocrine Society's suggested UL (10,000 IU) for Vitamin D while maintaining calcium at its UL (2000 mg/day total intake)."

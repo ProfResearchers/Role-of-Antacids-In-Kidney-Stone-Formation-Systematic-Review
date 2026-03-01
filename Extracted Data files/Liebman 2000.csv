@@ -1,0 +1,155 @@
+Data Field,Value
+Study ID,Liebman 2000
+Title,EFFECTS OF CALCIUM AND MAGNESIUM ON URINARY OXALATE EXCRETION AFTER OXALATE LOADS
+First Author,Liebman
+Year,2000
+Journal,THE JOURNAL OF UROLOGY
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Crossover study
+Control Group Type,Untreated control (oxalate load alone)
+Blinding,NR (likely open-label)
+Randomization Method,"Non-randomized, fixed sequence (control, calcium carbonate, magnesium oxide)"
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,Low oxalate diet starting the day prior to the OL tests and for 48 hours post oxalate ingestion; no dietary supplements
+Duration of Treatment,Single dose
+Total Follow-up Duration,48 hours post-oxalate ingestion
+Loss to Follow-up (n per arm if reported),0
+Analysis Population Used,All participants (Completers)
+Total Sample Size (Randomized),24
+Sample Size Analyzed (Primary Outcome),24
+Mean Age (± SD),"25.5 ± 8.3 (males), 25.0 ± 7.7 (females)"
+Sex (% Female),58.3
+BMI (Mean ± SD),"25.8 ± 4.1 (males), 23.5 ± 2.4 (females)"
+Stone Type,N/A
+History of Stones,None (healthy volunteers)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),"163 ± 83 (males), 155 ± 88 (females) mg (Pre-24 h control phase)"
+Baseline Urinary pH (Mean ± SD),NR
+Species,Human
+Stone Induction Method,N/A
+Arm ID,1
+Intervention Name,Calcium carbonate
+Dose,300 mg elemental calcium
+Frequency,Single dose
+Route,Oral
+Comparator Name,Control (Oxalate load alone)
+Concomitant Medications Allowed?,"180 mg unlabeled and 18 mg 1,2[13C2] oxalic acid (Oxalate load)"
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),NR
+Method of Detection,NR
+Timepoint Assessed,NR
+Events (n) [Intervention],NR
+Total (N) [Intervention],NR
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,NR
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,Post-24 h
+Urine Calcium [Intervention],"198 ± 106 (males), 140 ± 70 (females) mg"
+Urine Calcium [Control],"195 ± 86 (males), 154 ± 91 (females) mg"
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],39.3 ± 8.2 mg
+Urine Oxalate [Control],53.2 ± 11.6 mg
+Urine Magnesium [Intervention],"119 ± 38 (males), 92 ± 22 (females) mg"
+Urine Magnesium [Control],"116 ± 46 (males), 84 ± 29 (females) mg"
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SD
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),NR
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),NR
+Primary Timepoint Recommended for Pooling,24 hours post-oxalate ingestion
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,Healthy volunteer crossover study. No clinical stones evaluated.
+Study ID,Liebman 2000
+Title,EFFECTS OF CALCIUM AND MAGNESIUM ON URINARY OXALATE EXCRETION AFTER OXALATE LOADS
+First Author,Liebman
+Year,2000
+Journal,THE JOURNAL OF UROLOGY
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Crossover study
+Control Group Type,Untreated control (oxalate load alone)
+Blinding,NR (likely open-label)
+Randomization Method,"Non-randomized, fixed sequence (control, calcium carbonate, magnesium oxide)"
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,Low oxalate diet starting the day prior to the OL tests and for 48 hours post oxalate ingestion; no dietary supplements
+Duration of Treatment,Single dose
+Total Follow-up Duration,48 hours post-oxalate ingestion
+Loss to Follow-up (n per arm if reported),0
+Analysis Population Used,All participants (Completers)
+Total Sample Size (Randomized),24
+Sample Size Analyzed (Primary Outcome),24
+Mean Age (± SD),"25.5 ± 8.3 (males), 25.0 ± 7.7 (females)"
+Sex (% Female),58.3
+BMI (Mean ± SD),"25.8 ± 4.1 (males), 23.5 ± 2.4 (females)"
+Stone Type,N/A
+History of Stones,None (healthy volunteers)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),"163 ± 83 (males), 155 ± 88 (females) mg (Pre-24 h control phase)"
+Baseline Urinary pH (Mean ± SD),NR
+Species,Human
+Stone Induction Method,N/A
+Arm ID,2
+Intervention Name,Magnesium oxide
+Dose,300 mg elemental magnesium
+Frequency,Single dose
+Route,Oral
+Comparator Name,Control (Oxalate load alone)
+Concomitant Medications Allowed?,"180 mg unlabeled and 18 mg 1,2[13C2] oxalic acid (Oxalate load)"
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),NR
+Method of Detection,NR
+Timepoint Assessed,NR
+Events (n) [Intervention],NR
+Total (N) [Intervention],NR
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,NR
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,Post-24 h
+Urine Calcium [Intervention],"184 ± 90 (males), 120 ± 56 (females) mg"
+Urine Calcium [Control],"195 ± 86 (males), 154 ± 91 (females) mg"
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],42.7 ± 10.4 mg
+Urine Oxalate [Control],53.2 ± 11.6 mg
+Urine Magnesium [Intervention],"133 ± 36 (males), 93 ± 25 (females) mg"
+Urine Magnesium [Control],"116 ± 46 (males), 84 ± 29 (females) mg"
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SD
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),NR
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),NR
+Primary Timepoint Recommended for Pooling,24 hours post-oxalate ingestion
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,Healthy volunteer crossover study. No clinical stones evaluated.

@@ -1,0 +1,386 @@
+Data Field,Value
+Study ID,Laker 1981
+Title,Effective Therapy of Enteric Hyperoxaluria: In Vitro Binding of Oxalate by Anion-Exchange Resins and Aluminum Hydroxide
+First Author,M. F. Laker
+Year,1981
+Journal,Journal of Pharmaceutical Sciences
+Country,USA and England
+DOI / PMID / Trial Registry ID,NR
+Funding Source,"National Foundation for Ileitis and Colitis; National Institutes of Health Grant AM 21506; Rorer Group; Eli Lilly & Co.; Herbert Falk GmbH; Canada Packers, Ltd.; Research (Endowments) Committee of St. Thomas’s Hospital, London, England"
+Conflict of Interest Stated?,NR
+Study Design,In vitro binding study
+Control Group Type,Specimens in which adsorbent and isotope were omitted
+Blinding,NR
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,N/A
+Duration of Treatment,Several days (for equilibrium)
+Total Follow-up Duration,N/A
+Loss to Follow-up (n per arm if reported),N/A
+Analysis Population Used,N/A
+Total Sample Size (Randomized),N/A
+Sample Size Analyzed (Primary Outcome),N/A
+Mean Age (± SD),N/A
+Sex (% Female),N/A
+BMI (Mean ± SD),N/A
+Stone Type,Calcium oxalate
+History of Stones,N/A
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),N/A
+Baseline Urinary pH (Mean ± SD),N/A
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,A
+Intervention Name,"SB_r (Strongly basic anion-exchange resin, Dowex-1)"
+Dose,50 mg
+Frequency,Single incubation
+Route,In vitro
+Comparator Name,Saline vs Simulated Intestinal Content
+Concomitant Medications Allowed?,N/A
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Oxalate binding at equilibrium
+Method of Detection,Liquid scintillation counting of [14C]oxalic acid
+Timepoint Assessed,Equilibrium (up to several days)
+Events (n) [Intervention],NR
+Total (N) [Intervention],NR
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,0.16 mmoles/g (saline); 0.10 mmoles/g (simulated content)
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,N/A
+Urine Calcium [Intervention],N/A
+Urine Calcium [Control],N/A
+Urine Citrate [Intervention],N/A
+Urine Citrate [Control],N/A
+Urine Oxalate [Intervention],N/A
+Urine Oxalate [Control],N/A
+Urine Magnesium [Intervention],N/A
+Urine Magnesium [Control],N/A
+Urine pH [Intervention],N/A
+Urine pH [Control],N/A
+Urine Phosphorus [Intervention],N/A
+Urine Phosphorus [Control],N/A
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+GI Symptoms (n per arm),N/A
+Withdrawals Due to Adverse Events (n per arm),N/A
+Other Adverse Events (verbatim),N/A
+Primary Timepoint Recommended for Pooling,Equilibrium
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,This is an in vitro study evaluating the binding affinity of various adsorbents for oxalate in conditions simulating the human intestinal lumen. No humans or animals were directly treated.
+Study ID,Laker 1981
+Title,Effective Therapy of Enteric Hyperoxaluria: In Vitro Binding of Oxalate by Anion-Exchange Resins and Aluminum Hydroxide
+First Author,M. F. Laker
+Year,1981
+Journal,Journal of Pharmaceutical Sciences
+Country,USA and England
+DOI / PMID / Trial Registry ID,NR
+Funding Source,"National Foundation for Ileitis and Colitis; National Institutes of Health Grant AM 21506; Rorer Group; Eli Lilly & Co.; Herbert Falk GmbH; Canada Packers, Ltd.; Research (Endowments) Committee of St. Thomas’s Hospital, London, England"
+Conflict of Interest Stated?,NR
+Study Design,In vitro binding study
+Control Group Type,Specimens in which adsorbent and isotope were omitted
+Blinding,NR
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,N/A
+Duration of Treatment,Several days (for equilibrium)
+Total Follow-up Duration,N/A
+Loss to Follow-up (n per arm if reported),N/A
+Analysis Population Used,N/A
+Total Sample Size (Randomized),N/A
+Sample Size Analyzed (Primary Outcome),N/A
+Mean Age (± SD),N/A
+Sex (% Female),N/A
+BMI (Mean ± SD),N/A
+Stone Type,Calcium oxalate
+History of Stones,N/A
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),N/A
+Baseline Urinary pH (Mean ± SD),N/A
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,B
+Intervention Name,"WB_r (Weakly basic anion-exchange resin, Dowex-3)"
+Dose,50 mg
+Frequency,Single incubation
+Route,In vitro
+Comparator Name,Saline vs Simulated Intestinal Content
+Concomitant Medications Allowed?,N/A
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Oxalate binding at equilibrium
+Method of Detection,Liquid scintillation counting of [14C]oxalic acid
+Timepoint Assessed,Equilibrium
+Events (n) [Intervention],NR
+Total (N) [Intervention],NR
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,0.74 mmoles/g (saline); 0.52 mmoles/g (simulated content)
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,N/A
+Urine Calcium [Intervention],N/A
+Urine Calcium [Control],N/A
+Urine Citrate [Intervention],N/A
+Urine Citrate [Control],N/A
+Urine Oxalate [Intervention],N/A
+Urine Oxalate [Control],N/A
+Urine Magnesium [Intervention],N/A
+Urine Magnesium [Control],N/A
+Urine pH [Intervention],N/A
+Urine pH [Control],N/A
+Urine Phosphorus [Intervention],N/A
+Urine Phosphorus [Control],N/A
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+GI Symptoms (n per arm),N/A
+Withdrawals Due to Adverse Events (n per arm),N/A
+Other Adverse Events (verbatim),N/A
+Primary Timepoint Recommended for Pooling,Equilibrium
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,This is an in vitro study evaluating the binding affinity of various adsorbents for oxalate in conditions simulating the human intestinal lumen. No humans or animals were directly treated.
+Study ID,Laker 1981
+Title,Effective Therapy of Enteric Hyperoxaluria: In Vitro Binding of Oxalate by Anion-Exchange Resins and Aluminum Hydroxide
+First Author,M. F. Laker
+Year,1981
+Journal,Journal of Pharmaceutical Sciences
+Country,USA and England
+DOI / PMID / Trial Registry ID,NR
+Funding Source,"National Foundation for Ileitis and Colitis; National Institutes of Health Grant AM 21506; Rorer Group; Eli Lilly & Co.; Herbert Falk GmbH; Canada Packers, Ltd.; Research (Endowments) Committee of St. Thomas’s Hospital, London, England"
+Conflict of Interest Stated?,NR
+Study Design,In vitro binding study
+Control Group Type,Specimens in which adsorbent and isotope were omitted
+Blinding,NR
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,N/A
+Duration of Treatment,Several days (for equilibrium)
+Total Follow-up Duration,N/A
+Loss to Follow-up (n per arm if reported),N/A
+Analysis Population Used,N/A
+Total Sample Size (Randomized),N/A
+Sample Size Analyzed (Primary Outcome),N/A
+Mean Age (± SD),N/A
+Sex (% Female),N/A
+BMI (Mean ± SD),N/A
+Stone Type,Calcium oxalate
+History of Stones,N/A
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),N/A
+Baseline Urinary pH (Mean ± SD),N/A
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,C
+Intervention Name,Colestipol
+Dose,50 mg
+Frequency,Single incubation
+Route,In vitro
+Comparator Name,Saline vs Simulated Intestinal Content
+Concomitant Medications Allowed?,N/A
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Oxalate binding at equilibrium
+Method of Detection,Liquid scintillation counting
+Timepoint Assessed,Equilibrium
+Events (n) [Intervention],NR
+Total (N) [Intervention],NR
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,0.85 mmoles/g (saline); 0.44 mmoles/g (simulated content)
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,N/A
+Urine Calcium [Intervention],N/A
+Urine Calcium [Control],N/A
+Urine Citrate [Intervention],N/A
+Urine Citrate [Control],N/A
+Urine Oxalate [Intervention],N/A
+Urine Oxalate [Control],N/A
+Urine Magnesium [Intervention],N/A
+Urine Magnesium [Control],N/A
+Urine pH [Intervention],N/A
+Urine pH [Control],N/A
+Urine Phosphorus [Intervention],N/A
+Urine Phosphorus [Control],N/A
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+GI Symptoms (n per arm),N/A
+Withdrawals Due to Adverse Events (n per arm),N/A
+Other Adverse Events (verbatim),N/A
+Primary Timepoint Recommended for Pooling,Equilibrium
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,This is an in vitro study evaluating the binding affinity of various adsorbents for oxalate in conditions simulating the human intestinal lumen. No humans or animals were directly treated.
+Study ID,Laker 1981
+Title,Effective Therapy of Enteric Hyperoxaluria: In Vitro Binding of Oxalate by Anion-Exchange Resins and Aluminum Hydroxide
+First Author,M. F. Laker
+Year,1981
+Journal,Journal of Pharmaceutical Sciences
+Country,USA and England
+DOI / PMID / Trial Registry ID,NR
+Funding Source,"National Foundation for Ileitis and Colitis; National Institutes of Health Grant AM 21506; Rorer Group; Eli Lilly & Co.; Herbert Falk GmbH; Canada Packers, Ltd.; Research (Endowments) Committee of St. Thomas’s Hospital, London, England"
+Conflict of Interest Stated?,NR
+Study Design,In vitro binding study
+Control Group Type,Specimens in which adsorbent and isotope were omitted
+Blinding,NR
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,N/A
+Duration of Treatment,Several days (for equilibrium)
+Total Follow-up Duration,N/A
+Loss to Follow-up (n per arm if reported),N/A
+Analysis Population Used,N/A
+Total Sample Size (Randomized),N/A
+Sample Size Analyzed (Primary Outcome),N/A
+Mean Age (± SD),N/A
+Sex (% Female),N/A
+BMI (Mean ± SD),N/A
+Stone Type,Calcium oxalate
+History of Stones,N/A
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),N/A
+Baseline Urinary pH (Mean ± SD),N/A
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,D
+Intervention Name,"AHPF1 (Aluminum hydroxide proprietary formulation, Amphogel)"
+Dose,50 mg equivalent
+Frequency,Single incubation
+Route,In vitro
+Comparator Name,Saline vs Simulated Intestinal Content
+Concomitant Medications Allowed?,N/A
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Oxalate binding at equilibrium
+Method of Detection,Liquid scintillation counting
+Timepoint Assessed,Equilibrium
+Events (n) [Intervention],NR
+Total (N) [Intervention],NR
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,2.38 mmoles/g (saline); 0.74 mmoles/g (simulated content)
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,N/A
+Urine Calcium [Intervention],N/A
+Urine Calcium [Control],N/A
+Urine Citrate [Intervention],N/A
+Urine Citrate [Control],N/A
+Urine Oxalate [Intervention],N/A
+Urine Oxalate [Control],N/A
+Urine Magnesium [Intervention],N/A
+Urine Magnesium [Control],N/A
+Urine pH [Intervention],N/A
+Urine pH [Control],N/A
+Urine Phosphorus [Intervention],N/A
+Urine Phosphorus [Control],N/A
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+GI Symptoms (n per arm),N/A
+Withdrawals Due to Adverse Events (n per arm),N/A
+Other Adverse Events (verbatim),N/A
+Primary Timepoint Recommended for Pooling,Equilibrium
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,This is an in vitro study evaluating the binding affinity of various adsorbents for oxalate in conditions simulating the human intestinal lumen. No humans or animals were directly treated.
+Study ID,Laker 1981
+Title,Effective Therapy of Enteric Hyperoxaluria: In Vitro Binding of Oxalate by Anion-Exchange Resins and Aluminum Hydroxide
+First Author,M. F. Laker
+Year,1981
+Journal,Journal of Pharmaceutical Sciences
+Country,USA and England
+DOI / PMID / Trial Registry ID,NR
+Funding Source,"National Foundation for Ileitis and Colitis; National Institutes of Health Grant AM 21506; Rorer Group; Eli Lilly & Co.; Herbert Falk GmbH; Canada Packers, Ltd.; Research (Endowments) Committee of St. Thomas’s Hospital, London, England"
+Conflict of Interest Stated?,NR
+Study Design,In vitro binding study
+Control Group Type,Specimens in which adsorbent and isotope were omitted
+Blinding,NR
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,N/A
+Duration of Treatment,Several days (for equilibrium)
+Total Follow-up Duration,N/A
+Loss to Follow-up (n per arm if reported),N/A
+Analysis Population Used,N/A
+Total Sample Size (Randomized),N/A
+Sample Size Analyzed (Primary Outcome),N/A
+Mean Age (± SD),N/A
+Sex (% Female),N/A
+BMI (Mean ± SD),N/A
+Stone Type,Calcium oxalate
+History of Stones,N/A
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),N/A
+Baseline Urinary pH (Mean ± SD),N/A
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,E
+Intervention Name,Aluminum hydroxide powder
+Dose,50 mg
+Frequency,Single incubation
+Route,In vitro
+Comparator Name,Saline vs Simulated Intestinal Content
+Concomitant Medications Allowed?,N/A
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Oxalate binding at equilibrium
+Method of Detection,Liquid scintillation counting
+Timepoint Assessed,Equilibrium
+Events (n) [Intervention],NR
+Total (N) [Intervention],NR
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,1.84 mmoles/g (saline); 0.10 mmoles/g (simulated content)
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,N/A
+Urine Calcium [Intervention],N/A
+Urine Calcium [Control],N/A
+Urine Citrate [Intervention],N/A
+Urine Citrate [Control],N/A
+Urine Oxalate [Intervention],N/A
+Urine Oxalate [Control],N/A
+Urine Magnesium [Intervention],N/A
+Urine Magnesium [Control],N/A
+Urine pH [Intervention],N/A
+Urine pH [Control],N/A
+Urine Phosphorus [Intervention],N/A
+Urine Phosphorus [Control],N/A
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+GI Symptoms (n per arm),N/A
+Withdrawals Due to Adverse Events (n per arm),N/A
+Other Adverse Events (verbatim),N/A
+Primary Timepoint Recommended for Pooling,Equilibrium
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,This is an in vitro study evaluating the binding affinity of various adsorbents for oxalate in conditions simulating the human intestinal lumen. No humans or animals were directly treated.

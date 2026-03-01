@@ -1,0 +1,78 @@
+Data Field,Value
+Study ID,Fukushima 1991
+Title,Prophylaxis of uric acid stone in patients with inflammatory bowel disease following extensive colonic resection
+First Author,Fukushima
+Year,1991
+Journal,Gastroenterologia Japonica
+Country,Japan
+DOI / PMID / Trial Registry ID,NR
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Before-after study
+Control Group Type,Pre-treatment
+Blinding,N/A
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,NR
+Duration of Treatment,up to 4 years and 7 months
+Total Follow-up Duration,up to 4 years and 7 months
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,NR
+Total Sample Size (Randomized),54
+Sample Size Analyzed (Primary Outcome),11
+Mean Age (± SD),32.4±8.7 years
+Sex (% Female),NR
+BMI (Mean ± SD),NR
+Stone Type,Uric acid
+History of Stones,7/54 patients (13.0%) developed renal stones postoperatively
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),5.8±0.3
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,1
+Intervention Name,Sodium bicarbonate
+Dose,4 gm/day
+Frequency,q.i.d.
+Route,Oral
+Comparator Name,Pre-treatment
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),NR
+Method of Detection,NR
+Timepoint Assessed,NR
+Events (n) [Intervention],NR
+Total (N) [Intervention],NR
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,NR
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,During therapy
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],7.9
+Urine pH [Control],5.8
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SD
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),NR
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),NR
+Primary Timepoint Recommended for Pooling,NR
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,Uncontrolled before-after study. Pre-treatment values used as control.

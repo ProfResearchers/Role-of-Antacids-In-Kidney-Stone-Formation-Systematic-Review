@@ -1,0 +1,78 @@
+Data Field,Value
+Study ID,Carey 2024
+Title,Standardised nurse-led protocol of radiolucent renal and proximal ureteric stones using sodium bicarbonate oral dissolution therapy
+First Author,Michelle Carey
+Year,2024
+Journal,Journal of Clinical Urology
+Country,UK
+DOI / PMID / Trial Registry ID,10.1177/20514158221091066
+Funding Source,"The author(s) received no financial support for the research, authorship, and/or publication of this article."
+Conflict of Interest Stated?,"The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article."
+Study Design,Cohort Study
+Control Group Type,N/A
+Blinding,NR
+Randomization Method,NR
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,Patients on a sodium restricted diet were excluded.
+Duration of Treatment,6 weeks
+Total Follow-up Duration,6 weeks
+Loss to Follow-up (n per arm if reported),"2 (1 non-compliant, 1 withdrew)"
+Analysis Population Used,Per Protocol
+Total Sample Size (Randomized),22
+Sample Size Analyzed (Primary Outcome),20
+Mean Age (± SD),70 (median; range 37-88)
+Sex (% Female),30%
+BMI (Mean ± SD),NR
+Stone Type,Radiolucent stones
+History of Stones,NR
+Baseline Stone Size or Burden (if reported),0.830 cm (SD 0.541)
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,A
+Intervention Name,Sodium bicarbonate
+Dose,1g (titrated to maximum 5g/day)
+Frequency,Three times a day
+Route,Oral
+Comparator Name,N/A
+Concomitant Medications Allowed?,One patient received potassium citrate due to clinician choice.
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Complete response (all stone gone)
+Method of Detection,Non-contrast low-dose CT KUB
+Timepoint Assessed,6 weeks
+Events (n) [Intervention],9
+Total (N) [Intervention],20
+Events (n) [Control],N/A
+Total (N) [Control],N/A
+Effect Measure Reported in Paper,45%
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,6 weeks
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],N/A
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],N/A
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],N/A
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],N/A
+Urine pH [Intervention],7.0-7.5 (target)
+Urine pH [Control],N/A
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],N/A
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+GI Symptoms (n per arm),None reported for completers
+Withdrawals Due to Adverse Events (n per arm),0
+Other Adverse Events (verbatim),None reported bothersome side effects for the 20 patients who completed the protocol.
+Primary Timepoint Recommended for Pooling,6 weeks
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,Patients titrated dose based on TDS urine dipstick testing. Success rates were significantly higher (56%) in a sub-group of patients with stone density < 605 HU.

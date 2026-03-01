@@ -1,0 +1,78 @@
+Data Field,Value
+Study ID,Cherchir 2024
+Title,Long-term complications of permanent hypoparathyroidism in adults: prevalence and associated factors
+First Author,Cherchir
+Year,2024
+Journal,Endocrine
+Country,Tunisia
+DOI / PMID / Trial Registry ID,10.1007/s12020-024-03765-9
+Funding Source,NR
+Conflict of Interest Stated?,The authors declare no competing interests.
+Study Design,Cross-sectional study
+Control Group Type,N/A
+Blinding,N/A
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,NR
+Duration of Treatment,8.5 (5.0–16.5) years (median disease duration)
+Total Follow-up Duration,N/A
+Loss to Follow-up (n per arm if reported),N/A
+Analysis Population Used,Patients with Chronic hypoparathyroidism (CHPT)
+Total Sample Size (Randomized),58
+Sample Size Analyzed (Primary Outcome),58
+Mean Age (± SD),52.6 ± 16.4
+Sex (% Female),78
+BMI (Mean ± SD),27.1 ± 4.8
+Stone Type,NR
+History of Stones,NR
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),5.2 ± 3.8 mmol/24 h
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,CHPT patients
+Intervention Name,Conventional treatment (alfacalcidol and calcium carbonate)
+Dose,Alfacalcidol: 1 μg (0.7-2); Calcium carbonate: 1 g (1-1.5)
+Frequency,Daily
+Route,Oral
+Comparator Name,N/A
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Kidney stones
+Method of Detection,Renal ultrasound
+Timepoint Assessed,Cross-sectional
+Events (n) [Intervention],7
+Total (N) [Intervention],58
+Events (n) [Control],N/A
+Total (N) [Control],N/A
+Effect Measure Reported in Paper,Prevalence
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,Cross-sectional
+Urine Calcium [Intervention],5.2
+Urine Calcium [Control],N/A
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],N/A
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],N/A
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],N/A
+Urine pH [Intervention],NR
+Urine pH [Control],N/A
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],N/A
+Variance Type Used,SD
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,N/A
+GI Symptoms (n per arm),NR
+Withdrawals Due to Adverse Events (n per arm),N/A
+Other Adverse Events (verbatim),"Fahr syndrome (55%), cataract (62%), renal failure (17%)"
+Primary Timepoint Recommended for Pooling,Cross-sectional
+Outcome Suitable for Meta-analysis? (Yes / No),NR
+Data Requires Imputation for SD? (Yes / No / Not sure),N/A
+Comments / Extraction Notes,Cross-sectional study evaluating long-term complications in CHPT patients.

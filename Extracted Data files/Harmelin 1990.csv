@@ -1,0 +1,78 @@
+Data Field,Value
+Study ID,Harmelin 1990
+Title,Antacid-induced phosphate depletion syndrome presenting as nephrolithiasis
+First Author,Harmelin
+Year,1990
+Journal,Aust NZ J Med
+Country,Australia
+DOI / PMID / Trial Registry ID,NR
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Case Report
+Control Group Type,N/A
+Blinding,N/A
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,NR
+Duration of Treatment,18 months
+Total Follow-up Duration,18 months
+Loss to Follow-up (n per arm if reported),0
+Analysis Population Used,N/A
+Total Sample Size (Randomized),1
+Sample Size Analyzed (Primary Outcome),1
+Mean Age (± SD),29
+Sex (% Female),100
+BMI (Mean ± SD),NR
+Stone Type,"calcium, magnesium, carbonate and urate"
+History of Stones,"three episodes of renal colic in the preceding 12 months, bilateral renal calculi one year before presentation"
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),15.4 - 20.5 mmol/day
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,1
+Intervention Name,Oral phosphate
+Dose,500 mg
+Frequency,three times daily
+Route,Oral
+Comparator Name,N/A
+Concomitant Medications Allowed?,"metoclopramide, ranitidine"
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),NR
+Method of Detection,NR
+Timepoint Assessed,NR
+Events (n) [Intervention],NR
+Total (N) [Intervention],1
+Events (n) [Control],N/A
+Total (N) [Control],N/A
+Effect Measure Reported in Paper,NR
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,18 months
+Urine Calcium [Intervention],0.9 mmol/day
+Urine Calcium [Control],N/A
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],N/A
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],N/A
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],N/A
+Urine pH [Intervention],NR
+Urine pH [Control],N/A
+Urine Phosphorus [Intervention],13 mmol/day
+Urine Phosphorus [Control],N/A
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,N/A
+GI Symptoms (n per arm),"vomiting, lower retrosternal burning discomfort, diabetic gastroparesis with secondary gastro-oesophageal reflux"
+Withdrawals Due to Adverse Events (n per arm),N/A
+Other Adverse Events (verbatim),NR
+Primary Timepoint Recommended for Pooling,18 months
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),N/A
+Comments / Extraction Notes,Patient presented with antacid-induced phosphate depletion syndrome.

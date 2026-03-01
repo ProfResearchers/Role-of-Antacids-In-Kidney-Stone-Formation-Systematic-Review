@@ -1,0 +1,155 @@
+Data Field,Value
+Study ID,Johansson 1982
+Title,Effects of magnesium hydroxide in renal stone disease
+First Author,G. Johansson
+Year,1982
+Journal,Journal of the American College of Nutrition
+Country,Sweden
+DOI / PMID / Trial Registry ID,10.1080/07315724.1982.10718985
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Non-randomized controlled trial / Cohort study
+Control Group Type,No treatment / Standard of care
+Blinding,None
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,Dietary advice and fluid intake recommendations provided.
+Duration of Treatment,Up to 4 years
+Total Follow-up Duration,4 years
+Loss to Follow-up (n per arm if reported),6 patients failed to return for follow-up
+Analysis Population Used,NR
+Total Sample Size (Randomized),98
+Sample Size Analyzed (Primary Outcome),98
+Mean Age (± SD),Treatment: 44 ± 14 years; Control: 45 ± 11 years
+Sex (% Female),Treatment: 25.5% (14/55); Control: 18.6% (8/43)
+BMI (Mean ± SD),NR
+Stone Type,Renal calcium stone
+History of Stones,Recurrent renal calcium stone disease. Mean stone episode rate before therapy was 0.8 stones/year/patient (Treatment) and 0.5 stones/year/patient (Control).
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),Treatment: 6.9 ± 2.3 mmol/24 hours
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,Magnesium Hydroxide
+Intervention Name,Magnesium Hydroxide (Mg(OH)2)
+Dose,500 mg Mg2+
+Frequency,daily
+Route,Oral
+Comparator Name,Control
+Concomitant Medications Allowed?,Dietary advice and fluid intake recommendation
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Stone recurrence (passed new stones or new stone on X-ray)
+Method of Detection,Clinical follow-up and X-ray examination
+Timepoint Assessed,4 years
+Events (n) [Intervention],8
+Total (N) [Intervention],55
+Events (n) [Control],NR
+Total (N) [Control],43
+Effect Measure Reported in Paper,Number of patients with recurrence
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,48 months
+Urine Calcium [Intervention],6.2
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],3.0
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],6.6
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SD
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Gastrointestinal discomfort
+Withdrawals Due to Adverse Events (n per arm),A few
+Other Adverse Events (verbatim),No other clinical side effects were observed.
+Primary Timepoint Recommended for Pooling,4 years
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,Non-randomized study. Control group consisted of patients whose stone disease was either not active enough for prophylactic treatment or who preferred to delay medical treatment.
+Study ID,Johansson 1982
+Title,Effects of magnesium hydroxide in renal stone disease
+First Author,G. Johansson
+Year,1982
+Journal,Journal of the American College of Nutrition
+Country,Sweden
+DOI / PMID / Trial Registry ID,10.1080/07315724.1982.10718985
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Non-randomized controlled trial / Cohort study
+Control Group Type,No treatment / Standard of care
+Blinding,None
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,Dietary advice and fluid intake recommendations provided.
+Duration of Treatment,Up to 4 years
+Total Follow-up Duration,4 years
+Loss to Follow-up (n per arm if reported),6 patients failed to return for follow-up
+Analysis Population Used,NR
+Total Sample Size (Randomized),98
+Sample Size Analyzed (Primary Outcome),98
+Mean Age (± SD),Treatment: 44 ± 14 years; Control: 45 ± 11 years
+Sex (% Female),Treatment: 25.5% (14/55); Control: 18.6% (8/43)
+BMI (Mean ± SD),NR
+Stone Type,Renal calcium stone
+History of Stones,Recurrent renal calcium stone disease. Mean stone episode rate before therapy was 0.8 stones/year/patient (Treatment) and 0.5 stones/year/patient (Control).
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),Treatment: 6.9 ± 2.3 mmol/24 hours
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,Control
+Intervention Name,No prophylactic medical treatment
+Dose,N/A
+Frequency,N/A
+Route,N/A
+Comparator Name,Magnesium Hydroxide
+Concomitant Medications Allowed?,Dietary advice and fluid intake recommendation
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Stone recurrence (passed new stones or new stone on X-ray)
+Method of Detection,Clinical follow-up
+Timepoint Assessed,Up to 4 years
+Events (n) [Intervention],NR
+Total (N) [Intervention],55
+Events (n) [Control],17 at 2 years
+Total (N) [Control],43
+Effect Measure Reported in Paper,Number of patients with recurrence
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,NR
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Gastrointestinal discomfort
+Withdrawals Due to Adverse Events (n per arm),A few
+Other Adverse Events (verbatim),No other clinical side effects were observed.
+Primary Timepoint Recommended for Pooling,4 years
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,Non-randomized study. Control group consisted of patients whose stone disease was either not active enough for prophylactic treatment or who preferred to delay medical treatment.

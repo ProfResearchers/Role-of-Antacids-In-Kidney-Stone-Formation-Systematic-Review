@@ -1,0 +1,78 @@
+Data Field,Value
+Study ID,Burr 1981
+Title,CLINICAL AND EXPERIMENTAL STUDIES WITH ORAL ALUMINIUM HYDROXIDE
+First Author,Burr
+Year,1981
+Journal,Paraplegia
+Country,U.K.
+DOI / PMID / Trial Registry ID,NR
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Uncontrolled clinical study and experimental study
+Control Group Type,None
+Blinding,NR
+Randomization Method,NR
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,"Mild restriction of phosphorus intake: eliminated brown bread, oat and whole wheat cereals and bran; restricted hard cheese, sardines, nuts, chocolate and cocoa"
+Duration of Treatment,19 months (average)
+Total Follow-up Duration,19 months therapy plus 3.7 years average further observation
+Loss to Follow-up (n per arm if reported),0
+Analysis Population Used,NR
+Total Sample Size (Randomized),12
+Sample Size Analyzed (Primary Outcome),12
+Mean Age (± SD),36.0
+Sex (% Female),0
+BMI (Mean ± SD),NR
+Stone Type,Calcium phosphate and magnesium ammonium phosphate
+History of Stones,All patients in the clinical study had renal calculous disease
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,1
+Intervention Name,Oral aluminium hydroxide (AH)
+Dose,"9 g daily initially, adjusted to keep urinary phosphate 200-400 mg/day"
+Frequency,Four times daily
+Route,Oral
+Comparator Name,None
+Concomitant Medications Allowed?,Normacol Standard granules
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Recurrence or growth of calculi
+Method of Detection,Plain radiographs of the abdomen and intravenous pyelograms
+Timepoint Assessed,19 months
+Events (n) [Intervention],4
+Total (N) [Intervention],12
+Events (n) [Control],N/A
+Total (N) [Control],N/A
+Effect Measure Reported in Paper,Number of patients
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,NR
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),"Abdominal pain, constipation"
+Withdrawals Due to Adverse Events (n per arm),2 (in the experimental study)
+Other Adverse Events (verbatim),NR
+Primary Timepoint Recommended for Pooling,19 months
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,The paper reports an experimental cross-over study (n=10) for urinary parameters and a clinical uncontrolled study (n=12) for stone recurrence. Urinary parameter exact values are only presented in graphs (Figures 1 and 2) and thus marked NR.

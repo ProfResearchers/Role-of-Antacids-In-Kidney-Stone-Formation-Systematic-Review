@@ -1,0 +1,78 @@
+Data Field,Value
+Study ID,Waymack 1987
+Title,Renal calculi in the burned child
+First Author,Waymack
+Year,1987
+Journal,Burns
+Country,USA
+DOI / PMID / Trial Registry ID,NR
+Funding Source,Shriners of North America and the Surgical Infection Society-3M Corporation Research Award
+Conflict of Interest Stated?,NR
+Study Design,Retrospective chart review
+Control Group Type,N/A
+Blinding,N/A
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,NR
+Duration of Treatment,NR
+Total Follow-up Duration,NR
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,Patients who developed renal calculi
+Total Sample Size (Randomized),1785
+Sample Size Analyzed (Primary Outcome),15
+Mean Age (± SD),10.0 ± 1.0 years
+Sex (% Female),NR
+BMI (Mean ± SD),NR
+Stone Type,"Apatite, apatite with calcite, phosphate co-deposited with oxalate, calcium oxalate"
+History of Stones,NR
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,1
+Intervention Name,"Conservative therapy (hydration, urine acidification with ascorbic acid, antibiotics) or Surgery"
+Dose,NR
+Frequency,NR
+Route,Enteral (for ascorbic acid)
+Comparator Name,N/A
+Concomitant Medications Allowed?,"Antacids (primarily aluminium-based), antibiotics, dietary supplements (dairy products)"
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),NR
+Method of Detection,NR
+Timepoint Assessed,NR
+Events (n) [Intervention],NR
+Total (N) [Intervention],NR
+Events (n) [Control],NR
+Total (N) [Control],NR
+Effect Measure Reported in Paper,NR
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,NR
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),Abdominal pain
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),Haematuria
+Primary Timepoint Recommended for Pooling,NR
+Outcome Suitable for Meta-analysis? (Yes / No),NR
+Data Requires Imputation for SD? (Yes / No / Not sure),NR
+Comments / Extraction Notes,"Retrospective review of 1785 acute thermal injury admissions, identifying 15 patients who developed renal calculi."

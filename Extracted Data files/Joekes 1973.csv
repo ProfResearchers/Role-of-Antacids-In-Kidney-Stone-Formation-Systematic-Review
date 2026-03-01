@@ -1,0 +1,78 @@
+Data Field,Value
+Study ID,Joekes 1973
+Title,Multiple Renal Silica Calculi
+First Author,A. M. Joekes
+Year,1973
+Journal,British Medical Journal
+Country,United Kingdom
+DOI / PMID / Trial Registry ID,10.1136/bmj.1.5846.146
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Case Report
+Control Group Type,N/A
+Blinding,N/A
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,NR
+Duration of Treatment,many years
+Total Follow-up Duration,NR
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,Single patient case study
+Total Sample Size (Randomized),1
+Sample Size Analyzed (Primary Outcome),1
+Mean Age (± SD),68-year-old
+Sex (% Female),0%
+BMI (Mean ± SD),NR
+Stone Type,Silica calculi (opaline silica)
+History of Stones,"History of renal colic in 1940, 1966, and series starting in 1969"
+Baseline Stone Size or Burden (if reported),1-cm low density calculus (1971 stone)
+Baseline Urinary Calcium (Mean ± SD, units),85 and 84 mg (24-hour excretion)
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,A
+Intervention Name,Magnesium trisilicate
+Dose,2 g equivalent
+Frequency,after every meal
+Route,Oral
+Comparator Name,N/A
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Chemical analysis of renal calculus (1971 stone)
+Method of Detection,Quantitative analysis (Westbury and Omenogor) and x-ray powder diffraction
+Timepoint Assessed,September 1971
+Events (n) [Intervention],NR
+Total (N) [Intervention],1
+Events (n) [Control],N/A
+Total (N) [Control],N/A
+Effect Measure Reported in Paper,"Ash (Silica) 82.8%, Calcium 2.5%, Oxalate 4.5%, Phosphorus 1.5%, Magnesium 0.5%"
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,NR
+Urine Calcium [Intervention],NR
+Urine Calcium [Control],NR
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,NR
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+GI Symptoms (n per arm),History of indigestion
+Withdrawals Due to Adverse Events (n per arm),N/A
+Other Adverse Events (verbatim),Recurrent renal colic
+Primary Timepoint Recommended for Pooling,September 1971
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,The case describes silica stone formation resulting from chronic ingestion of magnesium trisilicate antacids. The stone was diagnosed as opaline silica which transforms to tridymite upon heating.

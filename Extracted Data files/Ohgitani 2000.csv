@@ -1,0 +1,155 @@
+Data Field,Value
+Study ID,Ohgitani 2000
+Title,カルシウムの積極的な服用による腎臓結石予防法・活性吸収型海草カルシウム (AAACa) の尿中蓚酸排泄抑制作用機序
+First Author,Shigeki Ohgitani
+Year,2000
+Journal,日本老年医学会雑誌 (Japanese Journal of Geriatrics)
+Country,Japan
+DOI / PMID / Trial Registry ID,NR
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Crossover study
+Control Group Type,Placebo
+Blinding,NR
+Randomization Method,NR
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,"No specific restrictions or regulations regarding lifestyle, exercise, or diet"
+Duration of Treatment,3 consecutive days per phase
+Total Follow-up Duration,2-week washout between phases
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,Per-protocol
+Total Sample Size (Randomized),9
+Sample Size Analyzed (Primary Outcome),9
+Mean Age (± SD),NR
+Sex (% Female),55.6%
+BMI (Mean ± SD),NR
+Stone Type,Calcium oxalate (CaOx)
+History of Stones,None (Healthy volunteers)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,A
+Intervention Name,AAACa (Active absorbable algal calcium)
+Dose,800mg calcium
+Frequency,Once daily after supper
+Route,Oral
+Comparator Name,Placebo
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Calcium oxalate crystals in urine (microscopic exam)
+Method of Detection,Semi-quantitative score (0 to 3+)
+Timepoint Assessed,Next morning first urine (average of 3 days)
+Events (n) [Intervention],8
+Total (N) [Intervention],27
+Events (n) [Control],7
+Total (N) [Control],27
+Effect Measure Reported in Paper,Positivity rate (8/27 vs 7/27)
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,Next morning first urine
+Urine Calcium [Intervention],22.7 ± 2.2 mg/dl
+Urine Calcium [Control],15.7 ± 1.9 mg/dl
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],16.0 ± 2.4 mg/L
+Urine Oxalate [Control],23.0 ± 6.2 mg/L
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SEM
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,0.519 ± 0.172 (Score)
+Control,0.370 ± 0.132 (Score)
+GI Symptoms (n per arm),NR
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),NR
+Primary Timepoint Recommended for Pooling,Next morning first morning urine
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,"The study utilized 9 healthy volunteers (4 males, 5 females) aged 23-49 in a crossover design comparing AAACa, CaCO3, and Placebo. Results showed AAACa tended to decrease urinary oxalate and calcium-oxalate products more efficiently than CaCO3."
+Study ID,Ohgitani 2000
+Title,カルシウムの積極的な服用による腎臓結石予防法・活性吸収型海草カルシウム (AAACa) の尿中蓚酸排泄抑制作用機序
+First Author,Shigeki Ohgitani
+Year,2000
+Journal,日本老年医学会雑誌 (Japanese Journal of Geriatrics)
+Country,Japan
+DOI / PMID / Trial Registry ID,NR
+Funding Source,NR
+Conflict of Interest Stated?,NR
+Study Design,Crossover study
+Control Group Type,Placebo
+Blinding,NR
+Randomization Method,NR
+Allocation Concealment,NR
+Dietary Restrictions or Co-interventions?,"No specific restrictions or regulations regarding lifestyle, exercise, or diet"
+Duration of Treatment,3 consecutive days per phase
+Total Follow-up Duration,2-week washout between phases
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,Per-protocol
+Total Sample Size (Randomized),9
+Sample Size Analyzed (Primary Outcome),9
+Mean Age (± SD),NR
+Sex (% Female),55.6%
+BMI (Mean ± SD),NR
+Stone Type,Calcium oxalate (CaOx)
+History of Stones,None (Healthy volunteers)
+Baseline Stone Size or Burden (if reported),N/A
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,N/A
+Stone Induction Method,N/A
+Arm ID,B
+Intervention Name,CaCO3 (Calcium carbonate)
+Dose,800mg calcium
+Frequency,Once daily after supper
+Route,Oral
+Comparator Name,Placebo
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Calcium oxalate crystals in urine (microscopic exam)
+Method of Detection,Semi-quantitative score (0 to 3+)
+Timepoint Assessed,Next morning first urine (average of 3 days)
+Events (n) [Intervention],15
+Total (N) [Intervention],27
+Events (n) [Control],7
+Total (N) [Control],27
+Effect Measure Reported in Paper,Positivity rate (15/27 vs 7/27)
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,Next morning first urine
+Urine Calcium [Intervention],26.3 ± 2.1 mg/dl
+Urine Calcium [Control],15.7 ± 1.9 mg/dl
+Urine Citrate [Intervention],NR
+Urine Citrate [Control],NR
+Urine Oxalate [Intervention],24.0 ± 3.5 mg/L
+Urine Oxalate [Control],23.0 ± 6.2 mg/L
+Urine Magnesium [Intervention],NR
+Urine Magnesium [Control],NR
+Urine pH [Intervention],NR
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],NR
+Urine Phosphorus [Control],NR
+Variance Type Used,SEM
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,N/A
+Control,N/A
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,0.741 ± 0.156 (Score)
+Control,0.370 ± 0.132 (Score)
+GI Symptoms (n per arm),NR
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),NR
+Primary Timepoint Recommended for Pooling,Next morning first morning urine
+Outcome Suitable for Meta-analysis? (Yes / No),Yes
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,"The study utilized 9 healthy volunteers (4 males, 5 females) aged 23-49 in a crossover design comparing AAACa, CaCO3, and Placebo. Results showed AAACa tended to decrease urinary oxalate and calcium-oxalate products more efficiently than CaCO3."

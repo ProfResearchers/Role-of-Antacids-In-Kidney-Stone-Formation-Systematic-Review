@@ -1,0 +1,155 @@
+Data Field,Value
+Study ID,Vrielinck 2023
+Title,Urolithiasis Problems in Finishing Pigs
+First Author,Joris Vrielinck
+Year,2023
+Journal,Veterinary Sciences
+Country,Belgium
+DOI / PMID / Trial Registry ID,10.3390/vetsci10120688
+Funding Source,No external funding
+Conflict of Interest Stated?,The authors declare no conflict of interest.
+Study Design,Case study/Case series
+Control Group Type,External control farm without urolithiasis problems
+Blinding,NR
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,Feeding ad libitum
+Duration of Treatment,NR
+Total Follow-up Duration,Six months
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,Finishing pigs (male and female)
+Total Sample Size (Randomized),12000 (Farm A: 4000; Farm B: 8000)
+Sample Size Analyzed (Primary Outcome),"15 pigs for blood (A: 5; B: 10), 12 pigs for urinalysis (A: 5; B: 7), 14 pigs for sediment (A: 7; B: 7)"
+Mean Age (± SD),> 22 weeks
+Sex (% Female),NR
+BMI (Mean ± SD),NR
+Stone Type,Calcium carbonate (calcite) and struvite
+History of Stones,NR
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,Pigs (Sus scrofa domesticus)
+Stone Induction Method,Spontaneous occurrence
+Arm ID,A
+Intervention Name,Farm A (Mash feed)
+Dose,NR
+Frequency,NR
+Route,Oral
+Comparator Name,Control farm
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Presence of macroscopic uroliths
+Method of Detection,Necropsy and FT-IR analysis
+Timepoint Assessed,Slaughter/Necropsy
+Events (n) [Intervention],NR
+Total (N) [Intervention],NR
+Events (n) [Control],0
+Total (N) [Control],NR
+Effect Measure Reported in Paper,NR
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,Last month of fattening period
+Urine Calcium [Intervention],6.34 mmol/g creatinine
+Urine Calcium [Control],1.80 mmol/g creatinine
+Urine Citrate [Intervention],2.29 mmol/g creatinine
+Urine Citrate [Control],0.18 mmol/g creatinine
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],9.19 mmol/g creatinine
+Urine Magnesium [Control],3.19 mmol/g creatinine
+Urine pH [Intervention],8.5 (Median)
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],0.83 mmol/g creatinine
+Urine Phosphorus [Control],1.19 mmol/g creatinine
+Variance Type Used,Mean
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,"Calcite (Score 5), COD (Score 1-2)"
+Control,NR
+GI Symptoms (n per arm),Stomach ulcers (preventive measures taken)
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),"Urethral obstruction, bladder rupture, and mortality (2-3%)"
+Primary Timepoint Recommended for Pooling,Slaughter/Necropsy at >22 weeks
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,Observational clinical case report. Data provided for urinary parameters are normalized to creatinine. Stone composition on Farm A was 100% calcite; Farm B was a mixture of 90% calcium carbonate and 10% calcium oxalate dihydrate.
+Study ID,Vrielinck 2023
+Title,Urolithiasis Problems in Finishing Pigs
+First Author,Joris Vrielinck
+Year,2023
+Journal,Veterinary Sciences
+Country,Belgium
+DOI / PMID / Trial Registry ID,10.3390/vetsci10120688
+Funding Source,No external funding
+Conflict of Interest Stated?,The authors declare no conflict of interest.
+Study Design,Case study/Case series
+Control Group Type,External control farm without urolithiasis problems
+Blinding,NR
+Randomization Method,N/A
+Allocation Concealment,N/A
+Dietary Restrictions or Co-interventions?,Feeding ad libitum
+Duration of Treatment,NR
+Total Follow-up Duration,Six months
+Loss to Follow-up (n per arm if reported),NR
+Analysis Population Used,Finishing pigs (male and female)
+Total Sample Size (Randomized),12000 (Farm A: 4000; Farm B: 8000)
+Sample Size Analyzed (Primary Outcome),"15 pigs for blood (A: 5; B: 10), 12 pigs for urinalysis (A: 5; B: 7), 14 pigs for sediment (A: 7; B: 7)"
+Mean Age (± SD),> 22 weeks
+Sex (% Female),NR
+BMI (Mean ± SD),NR
+Stone Type,Calcium carbonate (calcite) and struvite
+History of Stones,NR
+Baseline Stone Size or Burden (if reported),NR
+Baseline Urinary Calcium (Mean ± SD, units),NR
+Baseline Urinary pH (Mean ± SD),NR
+Species,Pigs (Sus scrofa domesticus)
+Stone Induction Method,Spontaneous occurrence
+Arm ID,B
+Intervention Name,Farm B (Pellet feed + NaCl & NaHCO3)
+Dose,2 kg/ton each for sodium chloride and sodium bicarbonate
+Frequency,Continuous in feed
+Route,Oral
+Comparator Name,Control farm
+Concomitant Medications Allowed?,NR
+Outcome A: Stone Recurrence / New Stone Formation (DICHOTOMOUS),N/A
+Outcome Definition (verbatim or summary),Presence of macroscopic uroliths
+Method of Detection,FT-IR analysis of stones from 50 bladders
+Timepoint Assessed,Slaughter
+Events (n) [Intervention],28
+Total (N) [Intervention],50
+Events (n) [Control],0
+Total (N) [Control],NR
+Effect Measure Reported in Paper,56%
+Time-to-Event Data Reported?,NR
+Outcome B: Urinary Biochemistry (CONTINUOUS),N/A
+Timepoint Assessed,Last month of fattening period
+Urine Calcium [Intervention],0.48 mmol/g creatinine
+Urine Calcium [Control],1.80 mmol/g creatinine
+Urine Citrate [Intervention],0.11 mmol/g creatinine
+Urine Citrate [Control],0.18 mmol/g creatinine
+Urine Oxalate [Intervention],NR
+Urine Oxalate [Control],NR
+Urine Magnesium [Intervention],1.27 mmol/g creatinine
+Urine Magnesium [Control],3.19 mmol/g creatinine
+Urine pH [Intervention],7.5 (Median)
+Urine pH [Control],NR
+Urine Phosphorus [Intervention],4.32 mmol/g creatinine
+Urine Phosphorus [Control],1.19 mmol/g creatinine
+Variance Type Used,Mean
+Outcome C: ANIMAL-ONLY OUTCOMES,N/A
+Kidney Calcium Content (Mean ± SD),N/A
+Intervention,NR
+Control,NR
+Crystal Deposit Score (Mean ± SD),N/A
+Intervention,"Struvite (Score 5), Calcite (Score 1-5), Amorphous (Score 5)"
+Control,NR
+GI Symptoms (n per arm),Stomach ulcers (preventive measures taken)
+Withdrawals Due to Adverse Events (n per arm),NR
+Other Adverse Events (verbatim),"Urethral obstruction, bladder rupture, and mortality (2-3%)"
+Primary Timepoint Recommended for Pooling,Slaughter/Necropsy at >22 weeks
+Outcome Suitable for Meta-analysis? (Yes / No),No
+Data Requires Imputation for SD? (Yes / No / Not sure),No
+Comments / Extraction Notes,Observational clinical case report. Data provided for urinary parameters are normalized to creatinine. Stone composition on Farm A was 100% calcite; Farm B was a mixture of 90% calcium carbonate and 10% calcium oxalate dihydrate.
